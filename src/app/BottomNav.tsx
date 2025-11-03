@@ -18,7 +18,7 @@ export default function BottomNav() {
 
   return (
     // <NavigationMenu viewport={isMobile}>
-    <NavigationMenu className="pb-6 min-w-screen grow justify-items-normal fixed bottom-0 left-0 w-full bg-white border-t border-gray-300 z-50">
+    <NavigationMenu className="pb-6 min-w-screen grow justify-items-normal fixed bottom-0 left-0 w-full z-50">
       <NavigationMenuList className="flex-wrap">
         <NavigationMenuItem>
           <NavigationMenuLink asChild className={navigationMenuTriggerStyle()}>
