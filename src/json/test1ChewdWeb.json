@@ -1,0 +1,1581 @@
+{
+  "meta": {
+    "format": "JSON",
+    "version": "1.1.0",
+    "projectId": "foodapp-415621",
+    "resourcePath": ["test1"],
+    "recursive": false,
+    "creationTime": 1762198328,
+    "app": "firefoo"
+  },
+  "data": {
+    "0JFZQ6lIC9VuH0wuwIQN": {
+      "Comments": "Came in late within 30 minutes of closing. And they treated us wonderful the whole time. No rush or making us feel rushed. The quality of food and flavors is always consistent and delicious. Top tier Chinese in DFW for sure. ",
+      "coords": { "lat": 32.9399445, "lng": -97.11129210000001 },
+      "createdAt": { "__time__": "2024-04-13T13:03:37.881Z" },
+      "dishes": [
+        {
+          "comments": "Good size. Not too big not too small. Flavor is delicious in both meat and juice. ",
+          "name": "Steamed Juicy Dumpling",
+          "ratings": { "label": "Overall", "value": 3 }
+        },
+        {
+          "comments": "This is a great one b/c you can try a variety as well as use this as a meal and not appetizer if you really like dunolings. ",
+          "name": "Dumpling Sampler",
+          "ratings": { "label": "Overall", "value": 3 }
+        },
+        {
+          "comments": "Gets its name from the way the dough spreads and the dumplings are all attached like a honeycomb. ",
+          "name": "Honeycomb Fried Pork Dumplings ",
+          "ratings": { "label": "Overall", "value": 3 }
+        },
+        {
+          "comments": "Classic and straightforward. Not too greasy. Can ask then to do a little crispy.",
+          "name": "Pork Dumplings Fried",
+          "ratings": { "label": "Overall", "value": 3 }
+        },
+        {
+          "comments": "The sauce the red chili pepper 🌶 flavor the size of chicken bites. All make this a great example of what this dish should be. Just enough peanut for crunchy but not too much. ",
+          "name": "Kung Pao Chicken",
+          "ratings": { "label": "Overall", "value": 4 }
+        },
+        {
+          "comments": "They do some and have some off menu like dishes this is one. Battered crust wth salt and lots of garlic with green onion and some chopped jalapeño makes this a delicious unique dish not all Chinese places do or do well. ",
+          "name": "\"Off Menu\" Salt Shrimp",
+          "ratings": { "label": "Overall", "value": 4 }
+        },
+        {
+          "comments": "Not all Fried Rice dishes are created equal. Theirs is light in color but not light in flavor. ",
+          "name": "Chicken Fried Rice",
+          "ratings": { "label": "Overall", "value": 4 }
+        }
+      ],
+      "favorite": true,
+      "placeId": "ChIJy9QPrfHVTYYR8PvyUGmRb4s",
+      "placeName": "Dragon House, East Southlake Boulevard, Southlake, TX, USA",
+      "ratings": [
+        { "label": "Overall", "value": 4 },
+        { "label": "Server Helpfulness", "value": 5 },
+        { "label": "Timeliness of Service", "value": 4 },
+        { "label": "Eagerness to Revisit", "value": 5 },
+        { "label": "Cleanliness", "value": 4 },
+        { "label": "Bang for Buck", "value": 4 },
+        { "label": "Music", "value": 0 },
+        { "label": "Noise Level", "value": 0 },
+        { "label": "Crowd Management", "value": 0 },
+        { "label": "Vibe", "value": 3 }
+      ],
+      "username": "thejohnwoz",
+      "__collections__": {}
+    },
+    "0iVOSUlP1vLo4ZAXZtu7": {
+      "Comments": "",
+      "coords": { "lat": 32.8581607, "lng": -96.76949169999999 },
+      "createdAt": { "__time__": "2024-04-09T03:50:33.443Z" },
+      "dishes": [],
+      "favorite": false,
+      "placeId": "ChIJK_A8vJifToYRitDaz81dy14",
+      "placeName": "Chick-fil-A, N Central Expy, Dallas, TX, USA",
+      "ratings": [
+        { "label": "Overall", "value": 3 },
+        { "label": "Server Helpfulness", "value": 0 },
+        { "label": "Timeliness of Service", "value": 3 },
+        { "label": "Eagerness to Revisit", "value": 0 },
+        { "label": "Cleanliness", "value": 3 },
+        { "label": "Bang for Buck", "value": 0 },
+        { "label": "Music", "value": 0 },
+        { "label": "Noise Level", "value": 0 },
+        { "label": "Crowd Management", "value": 0 },
+        { "label": "Vibe", "value": 0 }
+      ],
+      "username": "Eatthischair",
+      "__collections__": {}
+    },
+    "0romidxgrYDSDQskNRSU": {
+      "Comments": "This location is the only one close serving Spouse Like A House. Very good quality of ice cream amd sherbert. One of my favorite Ice Cream Parlors anywhere in the country which says alot because it's a chain from Ohio. All made in house in the location. ",
+      "coords": { "lat": 32.9389757, "lng": -97.11167809999999 },
+      "createdAt": { "__time__": "2024-07-29T20:17:49.335Z" },
+      "dishes": [
+        {
+          "comments": "Really great flavor and not all locations in DFW have it. Vanilla Malt Little caramel Chocolate Pretzel Crunch deliciousness. ",
+          "name": "Spouse Like a House",
+          "ratings": { "label": "Overall", "value": 4 }
+        }
+      ],
+      "favorite": true,
+      "placeId": "ChIJy7z9wCnVTYYRhmXzJca8kM0",
+      "placeName": "Handel's Ice Cream, East Southlake Boulevard, Southlake, TX, USA",
+      "ratings": [
+        { "label": "Overall", "value": 4 },
+        { "label": "Server Helpfulness", "value": 4 },
+        { "label": "Timeliness of Service", "value": 4 },
+        { "label": "Eagerness to Revisit", "value": 5 },
+        { "label": "Cleanliness", "value": 4 },
+        { "label": "Bang for Buck", "value": 4 },
+        { "label": "Music", "value": 0 },
+        { "label": "Noise Level", "value": 0 },
+        { "label": "Crowd Management", "value": 0 },
+        { "label": "Vibe", "value": 0 }
+      ],
+      "tags": ["Ice Cream", " Sherbert", " Sorbet", " Milkshake"],
+      "username": "thejohnwoz",
+      "__collections__": {}
+    },
+    "0wC2LsCFaLAc4SiOYNE1": {
+      "Comments": "",
+      "coords": { "lat": 32.81191700000001, "lng": -96.77069639999999 },
+      "dishes": [],
+      "favorite": false,
+      "placeId": "ChIJjRgW-kmfToYRYIGOuW9yD3I",
+      "placeName": "John's Cafe, Greenville Avenue, Dallas, TX, USA",
+      "ratings": [
+        { "label": "Overall", "value": 3 },
+        { "label": "Server Helpfulness", "value": 4 },
+        { "label": "Timeliness of Service", "value": 4 },
+        { "label": "Eagerness to Revisit", "value": 3 },
+        { "label": "Cleanliness", "value": 4 },
+        { "label": "Bang for Buck", "value": 4 },
+        { "label": "Music", "value": 0 },
+        { "label": "Noise Level", "value": 0 },
+        { "label": "Crowd Management", "value": 0 },
+        { "label": "Vibe", "value": 0 }
+      ],
+      "username": "Eatthischair",
+      "__collections__": {}
+    },
+    "0xYc2wfAWk2DRiKLP1GR": {
+      "Comments": "Ate at now closed location in Highland Village. It was the best Cajun I've ever had in DFW. Rivaled south east Texas and Louisiana. But price was outrageous. Gave this location a try. It was as good amd much better pricing. Will be back to try more dishes and check consistency. ",
+      "coords": { "lat": 32.8361993, "lng": -97.1307156 },
+      "createdAt": { "__time__": "2025-04-07T03:02:22.539Z" },
+      "dishes": [
+        {
+          "comments": "Delicious.  Flavorful. Very authentic. Catfish was perfectly seasoned and cooked. Juicy like it was seafood and not catfish. ",
+          "name": "Dirty Rice with Blackened Catfish",
+          "ratings": { "label": "Overall", "value": 4 }
+        },
+        {
+          "comments": "Flavorful, Rice cooked perfectly, authentic",
+          "name": "Jambalaya ",
+          "ratings": { "label": "Overall", "value": 3.5 }
+        }
+      ],
+      "favorite": false,
+      "placeId": "ChIJy8nHNBIzTIYRzFY8VGcURDk",
+      "placeName": "Dirty Cajun Seafood Kitchen, Airport Freeway, Bedford, TX, USA",
+      "ratings": [
+        { "label": "Overall", "value": 3.5 },
+        { "label": "Server Helpfulness", "value": 4.5 },
+        { "label": "Timeliness of Service", "value": 0 },
+        { "label": "Eagerness to Revisit", "value": 4 },
+        { "label": "Cleanliness", "value": 4 },
+        { "label": "Bang for Buck", "value": 3 },
+        { "label": "Music", "value": 5 },
+        { "label": "Noise Level", "value": 0 },
+        { "label": "Crowd Management", "value": 0 },
+        { "label": "Vibe", "value": 3.5 }
+      ],
+      "tags": [
+        "Cajun",
+        " Seafood",
+        " Creole",
+        " Po Boy",
+        " Dirty Rice",
+        " Jambalaya",
+        " Etoufe",
+        " "
+      ],
+      "username": "thejohnwoz",
+      "__collections__": {}
+    },
+    "2lwujyzZUw5LwXqhyPS8": {
+      "Comments": "Authentic Sinaloa Mexican Seafood, great variety of dishes. Could go there every week and not have to duplicate great dishes or fish choices for months. Owner cares alot about quality and service is fantastic. There are a small handful of Mexican seafood in DFW area and I think this is the best overall. ",
+      "coords": { "lat": 33.0212086, "lng": -96.9923453 },
+      "createdAt": { "__time__": "2025-07-27T22:54:57.455Z" },
+      "dishes": [
+        {
+          "comments": "Incredible flavor. Meaty shrimp. Fresh tasting with proper ingredients",
+          "name": "Shrimp Cocktail ",
+          "ratings": { "label": "Overall", "value": 4 }
+        },
+        {
+          "comments": "Homemade chips are fantastic. Love their salsa. ",
+          "name": "Chips and Salsa",
+          "ratings": { "label": "Overall", "value": 4 }
+        },
+        {
+          "comments": "Small minced garlic and butter sauce is very good. Quality of their fish is always great. Love this dish. ",
+          "name": "Garlic Butter Scallops ",
+          "ratings": { "label": "Overall", "value": 3.5 }
+        }
+      ],
+      "favorite": false,
+      "placeId": "ChIJrdctjjwvTIYRDaAA6PKeLKY",
+      "placeName": "Palapas seafood bar, South State Highway 121, Lewisville, TX, USA",
+      "ratings": [
+        { "label": "Overall", "value": 3.5 },
+        { "label": "Server Helpfulness", "value": 4.5 },
+        { "label": "Timeliness of Service", "value": 4 },
+        { "label": "Eagerness to Revisit", "value": 4 },
+        { "label": "Cleanliness", "value": 4 },
+        { "label": "Bang for Buck", "value": 3.5 },
+        { "label": "Music", "value": 0 },
+        { "label": "Noise Level", "value": 0 },
+        { "label": "Crowd Management", "value": 0 },
+        { "label": "Vibe", "value": 3.5 }
+      ],
+      "tags": ["Seafood", " Mexican", " Authentic", " Sinaloa", " "],
+      "username": "thejohnwoz",
+      "__collections__": {}
+    },
+    "2ofUtWvLtfBPtYePbrPo": {
+      "Comments": "Handel's is the best chain icecream and also one if the best individual ice cream parlors/shop in all of DFW. They make it home made fresh in store. ",
+      "coords": { "lat": 33.0358576, "lng": -97.07277649999999 },
+      "createdAt": { "__time__": "2024-05-13T02:36:00.388Z" },
+      "dishes": [
+        {
+          "comments": "",
+          "name": "Black Cherry Milkshake ",
+          "ratings": { "label": "Overall", "value": 4 }
+        }
+      ],
+      "favorite": true,
+      "placeId": "ChIJO-8ok6stTIYR3QViHaQI2lU",
+      "placeName": "Handel's Homemade Ice Cream, Cross Timbers Rd, Flower Mound, TX, USA",
+      "ratings": [
+        { "label": "Overall", "value": 4 },
+        { "label": "Server Helpfulness", "value": 5 },
+        { "label": "Timeliness of Service", "value": 5 },
+        { "label": "Eagerness to Revisit", "value": 5 },
+        { "label": "Cleanliness", "value": 4 },
+        { "label": "Bang for Buck", "value": 4 },
+        { "label": "Music", "value": 0 },
+        { "label": "Noise Level", "value": 0 },
+        { "label": "Crowd Management", "value": 0 },
+        { "label": "Vibe", "value": 4 }
+      ],
+      "tags": [""],
+      "username": "thejohnwoz",
+      "__collections__": {}
+    },
+    "3cYqlSLGI6lLzKaYSwGw": {
+      "Comments": "",
+      "coords": { "lat": 32.7986061, "lng": -96.82504209999999 },
+      "createdAt": { "__time__": "2024-05-06T17:42:26.478Z" },
+      "dishes": [],
+      "favorite": false,
+      "placeId": "ChIJ86YgAlKZToYRqENO0GZ42a0",
+      "placeName": "Denny's, Market Center Boulevard, Dallas, TX, USA",
+      "ratings": [
+        { "label": "Overall", "value": 5 },
+        { "label": "Server Helpfulness", "value": 0 },
+        { "label": "Timeliness of Service", "value": 0 },
+        { "label": "Eagerness to Revisit", "value": 0 },
+        { "label": "Cleanliness", "value": 0 },
+        { "label": "Bang for Buck", "value": 0 },
+        { "label": "Music", "value": 0 },
+        { "label": "Noise Level", "value": 0 },
+        { "label": "Crowd Management", "value": 0 },
+        { "label": "Vibe", "value": 0 }
+      ],
+      "tags": [""],
+      "username": "Eatthischair",
+      "__collections__": {}
+    },
+    "4StUU7FkTRjK2QkKDVgS": {
+      "Comments": "Food took to long to come out. Fries were soggy and cold. ",
+      "coords": { "lat": 32.9170394, "lng": -96.9595296 },
+      "createdAt": { "__time__": "2025-04-21T02:37:30.006Z" },
+      "dishes": [],
+      "favorite": false,
+      "placeId": "ChIJAQDcxU0oTIYRIaTyN0QC180",
+      "placeName": "Whataburger, Market Place Boulevard, Irving, TX, USA",
+      "ratings": [
+        { "label": "Overall", "value": 2.5 },
+        { "label": "Server Helpfulness", "value": 2.5 },
+        { "label": "Timeliness of Service", "value": 2 },
+        { "label": "Eagerness to Revisit", "value": 1.5 },
+        { "label": "Cleanliness", "value": 1.5 },
+        { "label": "Bang for Buck", "value": 3 },
+        { "label": "Music", "value": 0 },
+        { "label": "Noise Level", "value": 0 },
+        { "label": "Crowd Management", "value": 3 },
+        { "label": "Vibe", "value": 1.5 }
+      ],
+      "tags": ["Burger", " Fries", " shakes"],
+      "username": null,
+      "__collections__": {}
+    },
+    "4r4z9Oqlb5fEOnU7MXnP": {
+      "Comments": "",
+      "coords": { "lat": 33.07512030000001, "lng": -97.0850206 },
+      "createdAt": { "__time__": "2025-05-05T21:18:42.569Z" },
+      "dishes": [
+        {
+          "comments": "Flavor is balanced not too strong on the sour or spice. Good consistency in broth. Not too thick and not too watery.  Always has veggies and has great tofu pieces. ",
+          "name": "Hot & Sour Soup ",
+          "ratings": { "label": "Overall", "value": 4 }
+        },
+        {
+          "comments": "Authentic dish and flavor. Rare to find in DFW. True to the dish with tumeric home made noodles were delicious. Shrimp was plentiful and plump.very large portion. Lots of extra to take home. ",
+          "name": "Singapore Noodles",
+          "ratings": { "label": "Overall", "value": 4 }
+        },
+        {
+          "comments": "The white fish is Sole and was cooked perfectly. The breading isn't greasy ortho heavy. The sauce is very flavorful.",
+          "name": "Sweet & Spicy Breaded Fish",
+          "ratings": { "label": "Overall", "value": 4 }
+        }
+      ],
+      "favorite": false,
+      "placeId": "ChIJBahzFAAzTIYRsmD1J1bebJM",
+      "placeName": "Dragon House, Barton Creek, Highland Village, TX, USA",
+      "ratings": [
+        { "label": "Overall", "value": 4 },
+        { "label": "Server Helpfulness", "value": 4 },
+        { "label": "Timeliness of Service", "value": 4 },
+        { "label": "Eagerness to Revisit", "value": 4 },
+        { "label": "Cleanliness", "value": 4 },
+        { "label": "Bang for Buck", "value": 3.5 },
+        { "label": "Music", "value": 3.5 },
+        { "label": "Noise Level", "value": 0 },
+        { "label": "Crowd Management", "value": 4 },
+        { "label": "Vibe", "value": 4 }
+      ],
+      "tags": [
+        "Chinese",
+        "  Dim Sum",
+        " Dumplings",
+        "  noodles",
+        " home made noodles",
+        " Cantonese",
+        " szechuan"
+      ],
+      "username": "thejohnwoz",
+      "__collections__": {}
+    },
+    "5YZSzPG41xIAep7kChUj": {
+      "Comments": "",
+      "coords": { "lat": 32.760865, "lng": -97.07005439999999 },
+      "createdAt": { "__time__": "2024-05-01T04:44:32.289Z" },
+      "dishes": [],
+      "favorite": false,
+      "placeId": "ChIJM9A5XROHToYRJJIfRWwvOAs",
+      "placeName": "Steak 'n Shake, East Lamar Boulevard, Arlington, TX, USA",
+      "ratings": [
+        { "label": "Overall", "value": 5 },
+        { "label": "Server Helpfulness", "value": 5 },
+        { "label": "Timeliness of Service", "value": 3 },
+        { "label": "Eagerness to Revisit", "value": 0 },
+        { "label": "Cleanliness", "value": 0 },
+        { "label": "Bang for Buck", "value": 0 },
+        { "label": "Music", "value": 0 },
+        { "label": "Noise Level", "value": 0 },
+        { "label": "Crowd Management", "value": 2.5 },
+        { "label": "Vibe", "value": 3.5 }
+      ],
+      "tags": [""],
+      "username": "Eatthischair",
+      "__collections__": {}
+    },
+    "644yk3jx6VFSFgXPaD9L": {
+      "Comments": "",
+      "coords": { "lat": 33.04552389999999, "lng": -96.70246569999999 },
+      "createdAt": { "__time__": "2024-04-09T00:48:58.706Z" },
+      "dishes": [],
+      "favorite": false,
+      "placeId": "ChIJ8-QOsKwZTIYRqQX3NNZWc7o",
+      "placeName": "Bavarian Grill, Premier Drive, Plano, TX, USA",
+      "ratings": [
+        { "label": "Overall", "value": 5 },
+        { "label": "Server Helpfulness", "value": 4 },
+        { "label": "Timeliness of Service", "value": 0 },
+        { "label": "Eagerness to Revisit", "value": 0 },
+        { "label": "Cleanliness", "value": 0 },
+        { "label": "Bang for Buck", "value": 4 },
+        { "label": "Music", "value": 4 },
+        { "label": "Noise Level", "value": 4 },
+        { "label": "Crowd Management", "value": 4 },
+        { "label": "Vibe", "value": 4 }
+      ],
+      "username": "Eatthischair",
+      "__collections__": {}
+    },
+    "66IxJ2vlNAYJ47pUlwHE": {
+      "Comments": "This is a small mainly take out counter order style. They do have some 4 top tables along the wall. Great bang for buck. The owner is very nice and very consistent quality. ",
+      "coords": { "lat": 33.07036790000001, "lng": -97.05911400000001 },
+      "createdAt": { "__time__": "2024-05-16T01:14:21.232Z" },
+      "dishes": [
+        {
+          "comments": "Great value. Sushi quality is as good as many more expensive restaurants. Comes with Nigeria sashimi and a roll. ",
+          "name": "Sushi Combo 1",
+          "ratings": { "label": "Overall", "value": 3 }
+        }
+      ],
+      "favorite": false,
+      "placeId": "ChIJ0yKQno8yTIYRPHCc5s1D7qQ",
+      "placeName": "Sushi Go, Justin Road, Flower Mound, TX, USA",
+      "ratings": [
+        { "label": "Overall", "value": 3.5 },
+        { "label": "Server Helpfulness", "value": 5 },
+        { "label": "Timeliness of Service", "value": 4 },
+        { "label": "Eagerness to Revisit", "value": 5 },
+        { "label": "Cleanliness", "value": 4 },
+        { "label": "Bang for Buck", "value": 4.5 },
+        { "label": "Music", "value": 4 },
+        { "label": "Noise Level", "value": 0 },
+        { "label": "Crowd Management", "value": 0 },
+        { "label": "Vibe", "value": 3 }
+      ],
+      "tags": ["Sushi", " takeout", " "],
+      "username": "thejohnwoz",
+      "__collections__": {}
+    },
+    "7X4gEuwQnuNUb4iCFBD0": {
+      "Comments": "",
+      "coords": { "lat": 32.8522771, "lng": -97.11999809999999 },
+      "createdAt": { "__time__": "2024-05-13T20:13:56.074Z" },
+      "dishes": [
+        {
+          "comments": "Love their tacos pastor. Staple item I get alot. The flavor is so good I never get it with cheese or onions and cilantro. Just add the red hot sauce. ",
+          "name": "Tacos Pastor",
+          "ratings": { "label": "Overall", "value": 3.5 }
+        },
+        {
+          "comments": "Sometimes it's better than other times but it's one of the best Horchata in DFW",
+          "name": "Horchata",
+          "ratings": { "label": "Overall", "value": 4 }
+        }
+      ],
+      "favorite": false,
+      "placeId": "ChIJnRny3r1_ToYRcvmtomMkcZ0",
+      "placeName": "El Paisa Cocina Mexicana, Harwood Road, Bedford, TX, USA",
+      "ratings": [
+        { "label": "Overall", "value": 3.5 },
+        { "label": "Server Helpfulness", "value": 4 },
+        { "label": "Timeliness of Service", "value": 3.5 },
+        { "label": "Eagerness to Revisit", "value": 4 },
+        { "label": "Cleanliness", "value": 3.5 },
+        { "label": "Bang for Buck", "value": 3.5 },
+        { "label": "Music", "value": 0 },
+        { "label": "Noise Level", "value": 0 },
+        { "label": "Crowd Management", "value": 0 },
+        { "label": "Vibe", "value": 0 }
+      ],
+      "tags": [
+        "Mexican",
+        " Tacos",
+        " Burritos",
+        " Quesadilla",
+        " Horchata",
+        " Taqueria"
+      ],
+      "username": "thejohnwoz",
+      "__collections__": {}
+    },
+    "7geZ7xPq6mIbMkpY3iE4": {
+      "Comments": "",
+      "coords": { "lat": 32.7697069, "lng": -97.2868884 },
+      "createdAt": { "__time__": "2024-04-09T22:28:33.039Z" },
+      "dishes": [
+        {
+          "comments": "total ass",
+          "name": "poison sandwich",
+          "ratings": { "label": "Overall", "value": 5 }
+        }
+      ],
+      "favorite": true,
+      "placeId": "ChIJHfpzpnNxToYRGBUDg5o4cCA",
+      "placeName": "AIDS Outreach Center, North Beach Street, Fort Worth, TX, USA",
+      "ratings": [
+        { "label": "Overall", "value": 5 },
+        { "label": "Server Helpfulness", "value": 4 },
+        { "label": "Timeliness of Service", "value": 5 },
+        { "label": "Eagerness to Revisit", "value": 0 },
+        { "label": "Cleanliness", "value": 0 },
+        { "label": "Bang for Buck", "value": 0 },
+        { "label": "Music", "value": 0 },
+        { "label": "Noise Level", "value": 0 },
+        { "label": "Crowd Management", "value": 0 },
+        { "label": "Vibe", "value": 0 }
+      ],
+      "username": "Eatthischair",
+      "__collections__": {}
+    },
+    "8oRSIfDx4IQ2bppeU1Gl": {
+      "Comments": "",
+      "coords": { "lat": 32.9413526, "lng": -97.1319853 },
+      "createdAt": { "__time__": "2024-05-06T17:41:03.346Z" },
+      "dishes": [],
+      "favorite": false,
+      "placeId": "ChIJcfREkvTUTYYRUS-yvx-MWFM",
+      "placeName": "Corner Bakery, State Street, Southlake, TX, USA",
+      "ratings": [
+        { "label": "Overall", "value": 5 },
+        { "label": "Server Helpfulness", "value": 0 },
+        { "label": "Timeliness of Service", "value": 4 },
+        { "label": "Eagerness to Revisit", "value": 0 },
+        { "label": "Cleanliness", "value": 0 },
+        { "label": "Bang for Buck", "value": 0 },
+        { "label": "Music", "value": 0 },
+        { "label": "Noise Level", "value": 0 },
+        { "label": "Crowd Management", "value": 0 },
+        { "label": "Vibe", "value": 0 }
+      ],
+      "tags": [""],
+      "username": "Eatthischair",
+      "__collections__": {}
+    },
+    "9FEohAIB3452EPURoDL6": {
+      "Comments": "Multiple trips and its very hit and miss.",
+      "coords": { "lat": 32.933386, "lng": -96.83562119999999 },
+      "createdAt": { "__time__": "2025-06-19T22:22:19.208Z" },
+      "dishes": [
+        {
+          "comments": "It tasted like pure water. Yes there was coffee flavo.lr. tasted like hatred of life",
+          "name": "Iced Americano",
+          "ratings": { "label": "Overall", "value": 0.5 }
+        }
+      ],
+      "favorite": false,
+      "placeId": "ChIJj9eu3BAnTIYRgAue1SYcgJo",
+      "placeName": "NATIVE COFFEE CO., Alpha Road, Dallas, TX, USA",
+      "ratings": [
+        { "label": "Overall", "value": 2 },
+        { "label": "Server Helpfulness", "value": 3 },
+        { "label": "Timeliness of Service", "value": 4 },
+        { "label": "Eagerness to Revisit", "value": 1.5 },
+        { "label": "Cleanliness", "value": 4 },
+        { "label": "Bang for Buck", "value": 1.5 },
+        { "label": "Music", "value": 0 },
+        { "label": "Noise Level", "value": 1.5 },
+        { "label": "Crowd Management", "value": 0 },
+        { "label": "Vibe", "value": 3 }
+      ],
+      "tags": ["Coffee", " Tea", " "],
+      "username": "thejohnwoz",
+      "__collections__": {}
+    },
+    "AgwPP7kXOlLf5jntiPHq": {
+      "Comments": "",
+      "coords": { "lat": 32.8185084, "lng": -96.8138561 },
+      "createdAt": { "__time__": "2024-05-01T02:42:22.716Z" },
+      "dishes": [],
+      "favorite": false,
+      "placeId": "ChIJ-80LnrieToYRT2mLluVcPLg",
+      "placeName": "McDonald's, Lemmon Avenue, Dallas, TX, USA",
+      "ratings": [
+        { "label": "Overall", "value": 5 },
+        { "label": "Server Helpfulness", "value": 5 },
+        { "label": "Timeliness of Service", "value": 5 },
+        { "label": "Eagerness to Revisit", "value": 0 },
+        { "label": "Cleanliness", "value": 0 },
+        { "label": "Bang for Buck", "value": 0 },
+        { "label": "Music", "value": 0 },
+        { "label": "Noise Level", "value": 0 },
+        { "label": "Crowd Management", "value": 0 },
+        { "label": "Vibe", "value": 0 }
+      ],
+      "tags": [""],
+      "username": "Eatthischair",
+      "__collections__": {}
+    },
+    "AiXRNmpiAFKHqvlvQfL9": {
+      "Comments": "Sunday Lunch. We were the only people there at the time around 1:30pm. The fried onion strips and the Banderos were amazing. For the entree I had the sliced brisket and chopped brisket. Really fatty for a brisket and the smothered it in BBQ sauce. For side I had the vegetable skewers...WAY too salted. Over all it could have been better. I'll give it another chance, but not in a rush.",
+      "coords": "",
+      "createdAt": { "__time__": "2024-05-13T23:58:09.921Z" },
+      "dishes": [
+        {
+          "comments": "",
+          "name": "Banderos",
+          "ratings": { "label": "Overall", "value": 3.5 }
+        },
+        {
+          "comments": "",
+          "name": "Sliced Brisket and chopped brisket",
+          "ratings": { "label": "Overall", "value": 1.5 }
+        },
+        {
+          "comments": "",
+          "name": "Vegetable skewers",
+          "ratings": { "label": "Overall", "value": 1 }
+        }
+      ],
+      "favorite": false,
+      "placeId": "",
+      "placeName": "",
+      "ratings": [
+        { "label": "Overall", "value": 2 },
+        { "label": "Server Helpfulness", "value": 3 },
+        { "label": "Timeliness of Service", "value": 3 },
+        { "label": "Eagerness to Revisit", "value": 1 },
+        { "label": "Cleanliness", "value": 4 },
+        { "label": "Bang for Buck", "value": 2.5 },
+        { "label": "Music", "value": 2.5 },
+        { "label": "Noise Level", "value": 3 },
+        { "label": "Crowd Management", "value": 3 },
+        { "label": "Vibe", "value": 3 }
+      ],
+      "tags": [""],
+      "username": "Milrat45_",
+      "__collections__": {}
+    },
+    "B7UFxwyUMUGT89sIQDIm": {
+      "Comments": "Hamburger is very good, their fries are always crispy and fresh. Shakes are okay.",
+      "coords": { "lat": 33.18419919999999, "lng": -97.1075793 },
+      "createdAt": { "__time__": "2025-04-21T01:50:15.624Z" },
+      "dishes": [],
+      "favorite": true,
+      "placeId": "ChIJt_xrKSTLTYYRVJJFGPGSf-Y",
+      "placeName": "RG Burgers and Grill, South Interstate 35, Denton, TX, USA",
+      "ratings": [
+        { "label": "Overall", "value": 4 },
+        { "label": "Server Helpfulness", "value": 3.5 },
+        { "label": "Timeliness of Service", "value": 4 },
+        { "label": "Eagerness to Revisit", "value": 5 },
+        { "label": "Cleanliness", "value": 4 },
+        { "label": "Bang for Buck", "value": 5 },
+        { "label": "Music", "value": 0 },
+        { "label": "Noise Level", "value": 0 },
+        { "label": "Crowd Management", "value": 3.5 },
+        { "label": "Vibe", "value": 4 }
+      ],
+      "tags": ["Burgers", " hotdogs", " fries", " specialty burgers"],
+      "username": null,
+      "__collections__": {}
+    },
+    "Be73oThY3l9NTd6uSurB": {
+      "Comments": "New favorite Brazilian Steakhouse in DFW, cuts of meat amd prep is quality. Their salad bar is top notch. ",
+      "coords": { "lat": 32.89198609999999, "lng": -97.09789579999999 },
+      "createdAt": { "__time__": "2025-07-27T23:06:33.624Z" },
+      "dishes": [],
+      "favorite": false,
+      "placeId": "ChIJE2iuMmTVTYYRxt8Zqp49iBc",
+      "placeName": "Chama Gaúcha Brazilian Steakhouse - Dallas-Fort Worth, William D Tate Avenue, Grapevine, TX, USA",
+      "ratings": [
+        { "label": "Overall", "value": 4 },
+        { "label": "Server Helpfulness", "value": 4.5 },
+        { "label": "Timeliness of Service", "value": 4 },
+        { "label": "Eagerness to Revisit", "value": 4 },
+        { "label": "Cleanliness", "value": 4.5 },
+        { "label": "Bang for Buck", "value": 4 },
+        { "label": "Music", "value": 0 },
+        { "label": "Noise Level", "value": 0 },
+        { "label": "Crowd Management", "value": 0 },
+        { "label": "Vibe", "value": 3 }
+      ],
+      "tags": ["Brazilian", " Steakhouse", " "],
+      "username": "thejohnwoz",
+      "__collections__": {}
+    },
+    "CBKqlPAXkSj4o6LDKg9O": {
+      "Comments": "This is a meat market and little store with other items associated with a meat market. Has a set of tables for brunch, lunch, and early dinner. Variety of menu. Was 1st time and it was delicious. Excited to come back and taste more of the menu. ",
+      "coords": { "lat": 33.0204402, "lng": -97.07005439999999 },
+      "createdAt": { "__time__": "2025-04-10T15:20:25.520Z" },
+      "dishes": [
+        {
+          "comments": "Delicious. Meat was the star of t",
+          "name": "Po Boy Tenderloin",
+          "ratings": { "label": "Overall", "value": 3.5 }
+        },
+        {
+          "comments": "The breading was authentic. Has some breading like texture tonitvwgile being also light and flakey tough balance and wasn't too greasy either. ",
+          "name": "Fish N Chips",
+          "ratings": { "label": "Overall", "value": 4 }
+        }
+      ],
+      "favorite": false,
+      "placeId": "ChIJQ1Fps34tTIYReDwV73ucwAI",
+      "placeName": "Flurry's Market, Long Prairie Road, Flower Mound, TX, USA",
+      "ratings": [
+        { "label": "Overall", "value": 3.5 },
+        { "label": "Server Helpfulness", "value": 4.5 },
+        { "label": "Timeliness of Service", "value": 4.5 },
+        { "label": "Eagerness to Revisit", "value": 4.5 },
+        { "label": "Cleanliness", "value": 4.5 },
+        { "label": "Bang for Buck", "value": 4 },
+        { "label": "Music", "value": 2 },
+        { "label": "Noise Level", "value": 0 },
+        { "label": "Crowd Management", "value": 0 },
+        { "label": "Vibe", "value": 4 }
+      ],
+      "tags": [
+        "Meat market",
+        " Po Boys",
+        " steak",
+        " Cafe",
+        " st. Louis BBQ",
+        " cajun",
+        " brunch"
+      ],
+      "username": "thejohnwoz",
+      "__collections__": {}
+    },
+    "CNzB2xnjd75yHyUPhMHG": {
+      "Comments": "Great fast casual place. Simple straight forward menu. Basically shrimp rice salad. Flavors and food quality is consistent. Big portion as well. ",
+      "coords": { "lat": 33.1928817, "lng": -97.0977116 },
+      "createdAt": { "__time__": "2024-05-16T18:38:47.314Z" },
+      "dishes": [],
+      "favorite": false,
+      "placeId": "ChIJxWYUPFHLTYYR7Lj7RBlrKbI",
+      "placeName": "Coco Shrimp, South Loop 288, Denton, TX, USA",
+      "ratings": [
+        { "label": "Overall", "value": 3.5 },
+        { "label": "Server Helpfulness", "value": 4 },
+        { "label": "Timeliness of Service", "value": 4 },
+        { "label": "Eagerness to Revisit", "value": 4 },
+        { "label": "Cleanliness", "value": 3.5 },
+        { "label": "Bang for Buck", "value": 4 },
+        { "label": "Music", "value": 0 },
+        { "label": "Noise Level", "value": 0 },
+        { "label": "Crowd Management", "value": 0 },
+        { "label": "Vibe", "value": 3.5 }
+      ],
+      "tags": ["Shrimp", " fast casual", " Hawaiian"],
+      "username": "thejohnwoz",
+      "__collections__": {}
+    },
+    "CUx0nupHUAYPjMGUk2CM": {
+      "Comments": "",
+      "coords": { "lat": 32.7416982, "lng": -96.8239924 },
+      "createdAt": { "__time__": "2024-05-06T17:43:22.263Z" },
+      "dishes": [],
+      "favorite": false,
+      "placeId": "ChIJ0bmG-pGZToYRAvXS7S0nnEY",
+      "placeName": "AIDS Services of Dallas, South Zang Boulevard, Dallas, TX, USA",
+      "ratings": [
+        { "label": "Overall", "value": 0 },
+        { "label": "Server Helpfulness", "value": 0 },
+        { "label": "Timeliness of Service", "value": 0 },
+        { "label": "Eagerness to Revisit", "value": 0 },
+        { "label": "Cleanliness", "value": 0 },
+        { "label": "Bang for Buck", "value": 0 },
+        { "label": "Music", "value": 0 },
+        { "label": "Noise Level", "value": 0 },
+        { "label": "Crowd Management", "value": 0 },
+        { "label": "Vibe", "value": 3 }
+      ],
+      "tags": [""],
+      "username": "Eatthischair",
+      "__collections__": {}
+    },
+    "Cj0LTM9hoKOjHtgPiLEo": {
+      "Comments": "",
+      "coords": { "lat": 32.78072, "lng": -97.4188221 },
+      "createdAt": { "__time__": "2024-05-06T17:54:27.163Z" },
+      "dishes": [],
+      "favorite": false,
+      "placeId": "ChIJq6qqPr10ToYRtwdTjKgzsQg",
+      "placeName": "Burger's Lake, Meandering Road, Fort Worth, TX, USA",
+      "ratings": [
+        { "label": "Overall", "value": 0 },
+        { "label": "Server Helpfulness", "value": 0 },
+        { "label": "Timeliness of Service", "value": 0 },
+        { "label": "Eagerness to Revisit", "value": 0 },
+        { "label": "Cleanliness", "value": 0 },
+        { "label": "Bang for Buck", "value": 0 },
+        { "label": "Music", "value": 0 },
+        { "label": "Noise Level", "value": 0 },
+        { "label": "Crowd Management", "value": 0 },
+        { "label": "Vibe", "value": 0 }
+      ],
+      "tags": [""],
+      "username": "Eatthischair",
+      "__collections__": {}
+    },
+    "DAg2hgFx0l6OF7AG08RJ": {
+      "Comments": "",
+      "coords": { "lat": 33.245054, "lng": -96.8289448 },
+      "createdAt": { "__time__": "2024-05-06T17:55:28.029Z" },
+      "dishes": [],
+      "favorite": false,
+      "placeId": "ChIJVX-xnnk_TIYRQHsul1meuc4",
+      "placeName": "Star Trail, Star Trail Parkway, Prosper, TX, USA",
+      "ratings": [
+        { "label": "Overall", "value": 4 },
+        { "label": "Server Helpfulness", "value": 0 },
+        { "label": "Timeliness of Service", "value": 0 },
+        { "label": "Eagerness to Revisit", "value": 0 },
+        { "label": "Cleanliness", "value": 0 },
+        { "label": "Bang for Buck", "value": 0 },
+        { "label": "Music", "value": 0 },
+        { "label": "Noise Level", "value": 0 },
+        { "label": "Crowd Management", "value": 0 },
+        { "label": "Vibe", "value": 0 }
+      ],
+      "tags": [""],
+      "username": "Eatthischair",
+      "__collections__": {}
+    },
+    "DwOEYNAVBxvHpflbKGL7": {
+      "Comments": "",
+      "coords": { "lat": 32.9036363, "lng": -96.888223 },
+      "createdAt": { "__time__": "2024-05-01T01:50:42.714Z" },
+      "dishes": [],
+      "favorite": false,
+      "placeId": "ChIJoY3aNKQnTIYRt-9oc84pHDQ",
+      "placeName": "northaven auto group, Northaven Road, Dallas, TX, USA",
+      "ratings": [
+        { "label": "Overall", "value": 5 },
+        { "label": "Server Helpfulness", "value": 5 },
+        { "label": "Timeliness of Service", "value": 0 },
+        { "label": "Eagerness to Revisit", "value": 0 },
+        { "label": "Cleanliness", "value": 0 },
+        { "label": "Bang for Buck", "value": 0 },
+        { "label": "Music", "value": 0 },
+        { "label": "Noise Level", "value": 0 },
+        { "label": "Crowd Management", "value": 5 },
+        { "label": "Vibe", "value": 0 }
+      ],
+      "tags": [""],
+      "username": "Eatthischair",
+      "__collections__": {}
+    },
+    "ELJzuTAp1aUAolLFHxRO": {
+      "Comments": "test for async storage",
+      "coords": { "lat": 32.7359948, "lng": -97.1137905 },
+      "createdAt": { "__time__": "2024-04-25T22:41:15.760Z" },
+      "dishes": [],
+      "favorite": true,
+      "placeId": "ChIJqwxiUXN9ToYRPDHSg3u7uP4",
+      "placeName": "McDonald's, West Abram Street, Arlington, TX, USA",
+      "ratings": [
+        { "label": "Overall", "value": 5 },
+        { "label": "Server Helpfulness", "value": 4.5 },
+        { "label": "Timeliness of Service", "value": 2.5 },
+        { "label": "Eagerness to Revisit", "value": 0 },
+        { "label": "Cleanliness", "value": 0 },
+        { "label": "Bang for Buck", "value": 0 },
+        { "label": "Music", "value": 3 },
+        { "label": "Noise Level", "value": 3 },
+        { "label": "Crowd Management", "value": 3 },
+        { "label": "Vibe", "value": 0 }
+      ],
+      "tags": [""],
+      "username": null,
+      "__collections__": {}
+    },
+    "ESvDJjVsUJCnP6wFTWyQ": {
+      "Comments": "Penis",
+      "coords": { "lat": 32.8144834, "lng": -96.80812329999999 },
+      "createdAt": { "__time__": "2024-05-03T17:59:40.018Z" },
+      "dishes": [],
+      "favorite": true,
+      "placeId": "ChIJY0_XTM-eToYRt_v4Xy9GTqQ",
+      "placeName": "Wendy's, Lemmon Avenue, Dallas, TX, USA",
+      "ratings": [
+        { "label": "Overall", "value": 5 },
+        { "label": "Server Helpfulness", "value": 2.5 },
+        { "label": "Timeliness of Service", "value": 3.5 },
+        { "label": "Eagerness to Revisit", "value": 5 },
+        { "label": "Cleanliness", "value": 0 },
+        { "label": "Bang for Buck", "value": 2.5 },
+        { "label": "Music", "value": 0 },
+        { "label": "Noise Level", "value": 0 },
+        { "label": "Crowd Management", "value": 0 },
+        { "label": "Vibe", "value": 0 }
+      ],
+      "tags": [""],
+      "username": "Eatthischair",
+      "__collections__": {}
+    },
+    "FvDFdqBQPvXW21B5GLB1": {
+      "Comments": "",
+      "coords": "",
+      "createdAt": { "__time__": "2024-05-14T00:06:23.194Z" },
+      "dishes": [],
+      "favorite": false,
+      "placeId": "",
+      "placeName": "",
+      "ratings": [
+        { "label": "Overall", "value": 2.5 },
+        { "label": "Server Helpfulness", "value": 3 },
+        { "label": "Timeliness of Service", "value": 3 },
+        { "label": "Eagerness to Revisit", "value": 1.5 },
+        { "label": "Cleanliness", "value": 4 },
+        { "label": "Bang for Buck", "value": 2 },
+        { "label": "Music", "value": 2 },
+        { "label": "Noise Level", "value": 1.5 },
+        { "label": "Crowd Management", "value": 4 },
+        { "label": "Vibe", "value": 3 }
+      ],
+      "tags": [""],
+      "username": "Milrat45_",
+      "__collections__": {}
+    },
+    "FwfuNxWZA8gvo5MPvsXA": {
+      "Comments": "One of my favorite Chinese restaurants in my whole life and absolutely one of the best in DFW. Been coming here for decades. Always a 25-35 mile drive. But it's always so good. The vibe score is for hole in the wall like out of a movie. Run and operated bybtge same owner who also is your waitress. Flavorful and quality and consistency. ",
+      "coords": { "lat": 32.9495286, "lng": -96.73392679999999 },
+      "createdAt": { "__time__": "2025-04-24T15:59:18.643Z" },
+      "dishes": [
+        {
+          "comments": "",
+          "name": "Combo Fried Rice ",
+          "ratings": { "label": "Overall", "value": 4 }
+        },
+        {
+          "comments": "",
+          "name": "Hot & Sour Soup ",
+          "ratings": { "label": "Overall", "value": 4 }
+        },
+        {
+          "comments": "Crispy fried (not greasy) white fish with onions garlic and chopped jalapeño. One of my favorite dishes anywhere. ",
+          "name": "Salt Fish",
+          "ratings": { "label": "Overall", "value": 4.5 }
+        },
+        {
+          "comments": "",
+          "name": "King Pao Chicken",
+          "ratings": { "label": "Overall", "value": 4 }
+        }
+      ],
+      "favorite": false,
+      "placeId": "ChIJZ8Y4WnEfTIYR_rHeeTQrHEM",
+      "placeName": "First Emperor Chinese Restaurant, West Polk Street, Richardson, TX, USA",
+      "ratings": [
+        { "label": "Overall", "value": 4 },
+        { "label": "Server Helpfulness", "value": 4 },
+        { "label": "Timeliness of Service", "value": 4 },
+        { "label": "Eagerness to Revisit", "value": 5 },
+        { "label": "Cleanliness", "value": 3 },
+        { "label": "Bang for Buck", "value": 4 },
+        { "label": "Music", "value": 0 },
+        { "label": "Noise Level", "value": 0 },
+        { "label": "Crowd Management", "value": 0 },
+        { "label": "Vibe", "value": 4 }
+      ],
+      "tags": ["Chinese", " hole in the wall", " "],
+      "username": "thejohnwoz",
+      "__collections__": {}
+    },
+    "FzVUXvJ9Sk1XInAdac1N": {
+      "Comments": "Had read and seen a few stellar reviews but was very let down by the experience and quality of meal. I think the original owner could have done fantastic but he wasn't in the kitchen and I don't think he is influencing things enough or over seeing things enough. Staff was helpful and nice. Menu is great and has variety. But price is very high and the quality and level of execution way too low overall. ",
+      "coords": { "lat": 32.7559487, "lng": -97.3324561 },
+      "createdAt": { "__time__": "2024-07-29T19:57:37.886Z" },
+      "dishes": [
+        {
+          "comments": "Good crust and dough. Filling is just ok. ",
+          "name": "Sweet Corn Empanadas",
+          "ratings": { "label": "Overall", "value": 3 }
+        },
+        {
+          "comments": "This was the best thing that we tried. Unique and creative recipe. Absolutely perfectly prepared. Delicious.  ",
+          "name": "Beef Tiradito",
+          "ratings": { "label": "Overall", "value": 4 }
+        },
+        {
+          "comments": "It's Qasim a very large piece and very meaty. But the preparation or the quality of ingredient seemed off this is one of my favorite unique things to eat yet I felt uneasy eating it. ",
+          "name": "Spanish Octopus",
+          "ratings": { "label": "Overall", "value": 2 }
+        },
+        {
+          "comments": "The quality of meat was just ok. The preparation was off and I had to send it back but they did fix it without any bad attitude and apologized. The rating given is for the 2nd attempt amd is not affected by the mistake. For the price amd quality restaurant I think it could have been better. ",
+          "name": "14 Oz Ribeye",
+          "ratings": { "label": "Overall", "value": 3 }
+        },
+        {
+          "comments": "They were ok. Flavor wasn't that great and the prep seemed a bit soggy. ",
+          "name": "Truffle Fries",
+          "ratings": { "label": "Overall", "value": 2.5 }
+        },
+        {
+          "comments": "Adequately prepared. Flavor was bold but yet lacking. One of the better dishes of the Night",
+          "name": "Crispy Brussel Sprouts",
+          "ratings": { "label": "Overall", "value": 2.5 }
+        },
+        {
+          "comments": "These were not bad but just ok. Flavor texture very below what I would expect for $14 churros. The empanadas earlier had us expecting better. ",
+          "name": "House made Churtos",
+          "ratings": { "label": "Overall", "value": 2 }
+        },
+        {
+          "comments": "Pretty good and balanced moist and not too wet pretty well. ",
+          "name": "Tres Leches Cake",
+          "ratings": { "label": "Overall", "value": 2.5 }
+        }
+      ],
+      "favorite": false,
+      "placeId": "ChIJjQgBZbRxToYRAdGI5kHNsTo",
+      "placeName": "Toro Toro Fort Worth, Main Street, Fort Worth, TX, USA",
+      "ratings": [
+        { "label": "Overall", "value": 2 },
+        { "label": "Server Helpfulness", "value": 4 },
+        { "label": "Timeliness of Service", "value": 4 },
+        { "label": "Eagerness to Revisit", "value": 1 },
+        { "label": "Cleanliness", "value": 4 },
+        { "label": "Bang for Buck", "value": 1 },
+        { "label": "Music", "value": 0 },
+        { "label": "Noise Level", "value": 0 },
+        { "label": "Crowd Management", "value": 0 },
+        { "label": "Vibe", "value": 3.5 }
+      ],
+      "tags": [
+        "Pan Latin",
+        " Fine Dining",
+        " steak",
+        " fish",
+        " seafood",
+        " Latin",
+        " "
+      ],
+      "username": "thejohnwoz",
+      "__collections__": {}
+    },
+    "GneOvdLIYSShWiWbBrak": {
+      "Comments": "This place is a gem find for not just bagels but sandwiches on bagels. Fantastic & unique in DFW",
+      "coords": { "lat": 32.8372051, "lng": -96.7799557 },
+      "createdAt": { "__time__": "2024-05-16T01:36:53.571Z" },
+      "dishes": [
+        {
+          "comments": "This sandwich is amazing. They have great bagels and spreads but I like the sandwiches so much I usually just get one and then maybe a bagel to go. Unique and fantastic ingredients & execution ",
+          "name": "Russian Cutlet ",
+          "ratings": { "label": "Overall", "value": 4 }
+        }
+      ],
+      "favorite": false,
+      "placeId": "ChIJKZKxn2GfToYRTkhi4JzThuc",
+      "placeName": "Shug's Bagels, Mockingbird Lane, Dallas, TX, USA",
+      "ratings": [
+        { "label": "Overall", "value": 3.5 },
+        { "label": "Server Helpfulness", "value": 4 },
+        { "label": "Timeliness of Service", "value": 4 },
+        { "label": "Eagerness to Revisit", "value": 5 },
+        { "label": "Cleanliness", "value": 3 },
+        { "label": "Bang for Buck", "value": 3 },
+        { "label": "Music", "value": 0 },
+        { "label": "Noise Level", "value": 0 },
+        { "label": "Crowd Management", "value": 0 },
+        { "label": "Vibe", "value": 2.5 }
+      ],
+      "tags": ["Bagels", " breakfast", " sandwiches"],
+      "username": "thejohnwoz",
+      "__collections__": {}
+    },
+    "Ipso40KHttZ13LPFQ4Mk": {
+      "Comments": "",
+      "coords": { "lat": 32.8185084, "lng": -96.8138561 },
+      "createdAt": { "__time__": "2024-05-01T00:01:49.228Z" },
+      "dishes": [],
+      "favorite": false,
+      "placeId": "ChIJ-80LnrieToYRT2mLluVcPLg",
+      "placeName": "McDonald's, Lemmon Avenue, Dallas, TX, USA",
+      "ratings": [
+        { "label": "Overall", "value": 5 },
+        { "label": "Server Helpfulness", "value": 5 },
+        { "label": "Timeliness of Service", "value": 5 },
+        { "label": "Eagerness to Revisit", "value": 5 },
+        { "label": "Cleanliness", "value": 5 },
+        { "label": "Bang for Buck", "value": 5 },
+        { "label": "Music", "value": 5 },
+        { "label": "Noise Level", "value": 5 },
+        { "label": "Crowd Management", "value": 5 },
+        { "label": "Vibe", "value": 5 }
+      ],
+      "tags": [""],
+      "username": null,
+      "__collections__": {}
+    },
+    "IqxtuS0C6UwBOlKyAr8g": {
+      "Comments": "A wide variety menu. Americana more upscale dining. (Not fine dining level but that vibe) all the food and dishes were solid. First time here. If uts consistent its a solid 3.5 - 4 CHEW overall. Nice decor. Good food. Pricing fair especially given out of control pricing everywhere. ",
+      "coords": { "lat": 33.07847, "lng": -96.82267999999999 },
+      "createdAt": { "__time__": "2024-11-03T23:29:57.157Z" },
+      "dishes": [
+        {
+          "comments": "The Beets were not normal dark red. Very delicious. Arugula and dressing with other ingredients was great. Splitable for the table.",
+          "name": "Beet Salad ",
+          "ratings": { "label": "Overall", "value": 3.5 }
+        },
+        {
+          "comments": "Tuna on top of Guacamole. Fresh and great meal or appetizer. ",
+          "name": "Tuna Tar Tar",
+          "ratings": { "label": "Overall", "value": 3 }
+        },
+        {
+          "comments": "Quality of meat was some of the best I've ever had in a restaurant anywhere at any price. Cooked perfect medium rare. Flavor and tenderness was amazing. Mashed potatoes are delicious. I'm a big Mashed potato connoisseur and don't easily rave about restaurant Mashed Potatoes. ",
+          "name": "Lamb Loin & Yukon Mashed Potatoes ",
+          "ratings": { "label": "Overall", "value": 4 }
+        },
+        {
+          "comments": "Small in large shot glass like style. Lots of choices for flavors. Was good. Not sure I'd do again but I can reccomend. ",
+          "name": "Desert",
+          "ratings": { "label": "Overall", "value": 3 }
+        }
+      ],
+      "favorite": false,
+      "placeId": "ChIJO8_2t7E8TIYRAdbA8OyDGI0",
+      "placeName": "Seasons 52, Lone Star Drive, Plano, TX, USA",
+      "ratings": [
+        { "label": "Overall", "value": 3.5 },
+        { "label": "Server Helpfulness", "value": 4 },
+        { "label": "Timeliness of Service", "value": 4 },
+        { "label": "Eagerness to Revisit", "value": 4 },
+        { "label": "Cleanliness", "value": 4 },
+        { "label": "Bang for Buck", "value": 3.5 },
+        { "label": "Music", "value": 0 },
+        { "label": "Noise Level", "value": 0 },
+        { "label": "Crowd Management", "value": 0 },
+        { "label": "Vibe", "value": 3.5 }
+      ],
+      "tags": [""],
+      "username": "thejohnwoz",
+      "__collections__": {}
+    },
+    "Jr210GIgnUkgpkVGCQDw": {
+      "Comments": "This is multiple visits so look at dishes on this and overall comments on other reviews. ",
+      "coords": { "lat": 33.07512030000001, "lng": -97.0850206 },
+      "createdAt": { "__time__": "2025-05-13T03:40:18.445Z" },
+      "dishes": [
+        {
+          "comments": "Flavorful and balanced flavors of sour and spicy. Mushroom, tofu, & ginger very fresh. ",
+          "name": "Hot & Sour Soup",
+          "ratings": { "label": "Overall", "value": 4 }
+        },
+        {
+          "comments": "The flavor of the sauce was fresh and lived up to its name. Lots of fresh crushed garlic. The meat was not over cooked. The white rice was also very good tonight. The right kind of starchy. ",
+          "name": "Shredded Pork in Garlic Sauce ",
+          "ratings": { "label": "Overall", "value": 4 }
+        },
+        {
+          "comments": "Home made mochi dough that is caramelized. The ice cream inside is also very good. One of my favorite deserts in all of DFW. ",
+          "name": "Homemade Mochi",
+          "ratings": { "label": "Overall", "value": 4 }
+        }
+      ],
+      "favorite": false,
+      "placeId": "ChIJBahzFAAzTIYRsmD1J1bebJM",
+      "placeName": "Dragon House, Barton Creek, Highland Village, TX, USA",
+      "ratings": [
+        { "label": "Overall", "value": 4 },
+        { "label": "Server Helpfulness", "value": 4 },
+        { "label": "Timeliness of Service", "value": 4 },
+        { "label": "Eagerness to Revisit", "value": 4 },
+        { "label": "Cleanliness", "value": 4 },
+        { "label": "Bang for Buck", "value": 3 },
+        { "label": "Music", "value": 3.5 },
+        { "label": "Noise Level", "value": 0 },
+        { "label": "Crowd Management", "value": 4 },
+        { "label": "Vibe", "value": 4 }
+      ],
+      "tags": ["Chinese", " soup", "  desert"],
+      "username": "thejohnwoz",
+      "__collections__": {}
+    },
+    "KGADOMBMTS4DOf2kAEsI": {
+      "Comments": "New and very authentic Venezuelan food. Counter service. The hamburgers are bigger than you could believe. The plantains are amazing in all dishes where it's used. Will be back to try more. The Arepas was really good. It's truly fast casual and to go. But family owned and very focused on quality and service.",
+      "coords": { "lat": 33.0729063, "lng": -97.05713349999999 },
+      "createdAt": { "__time__": "2025-03-31T17:22:45.781Z" },
+      "dishes": [],
+      "favorite": false,
+      "placeId": "ChIJ5WwnLAAzTIYRr7v3GTzIEsg",
+      "placeName": "Code 58 Venezuelan Restaurant, Justin Road, Highland Village, TX, USA",
+      "ratings": [
+        { "label": "Overall", "value": 3 },
+        { "label": "Server Helpfulness", "value": 4 },
+        { "label": "Timeliness of Service", "value": 4 },
+        { "label": "Eagerness to Revisit", "value": 3 },
+        { "label": "Cleanliness", "value": 3.5 },
+        { "label": "Bang for Buck", "value": 3 },
+        { "label": "Music", "value": 0 },
+        { "label": "Noise Level", "value": 0 },
+        { "label": "Crowd Management", "value": 0 },
+        { "label": "Vibe", "value": 2.5 }
+      ],
+      "tags": ["Venezuelan", " Areas", " empanadas", " "],
+      "username": "thejohnwoz",
+      "__collections__": {}
+    },
+    "KIjavdkXWWwjQPLwGWcc": {
+      "Comments": "",
+      "coords": { "lat": 32.8185084, "lng": -96.8138561 },
+      "createdAt": { "__time__": "2024-05-01T02:43:47.920Z" },
+      "dishes": [],
+      "favorite": false,
+      "placeId": "ChIJ-80LnrieToYRT2mLluVcPLg",
+      "placeName": "McDonald's, Lemmon Avenue, Dallas, TX, USA",
+      "ratings": [
+        { "label": "Overall", "value": 5 },
+        { "label": "Server Helpfulness", "value": 3.5 },
+        { "label": "Timeliness of Service", "value": 5 },
+        { "label": "Eagerness to Revisit", "value": 0 },
+        { "label": "Cleanliness", "value": 0 },
+        { "label": "Bang for Buck", "value": 0 },
+        { "label": "Music", "value": 0 },
+        { "label": "Noise Level", "value": 0 },
+        { "label": "Crowd Management", "value": 4 },
+        { "label": "Vibe", "value": 5 }
+      ],
+      "tags": [""],
+      "username": "testApr30",
+      "__collections__": {}
+    },
+    "KOqTOFDLyk2TzAxnF2IC": {
+      "Comments": "",
+      "coords": { "lat": 32.8595004, "lng": -96.76239269999999 },
+      "dishes": [],
+      "favorite": true,
+      "placeId": "ChIJ3cbvSx2fToYRBZcBozYwVM4",
+      "placeName": "Buzz & Bustle Coffee House & Shop - The Village Dallas, Village Glen Drive, Dallas, TX, USA",
+      "ratings": [
+        { "label": "Overall", "value": 0 },
+        { "label": "Server Helpfulness", "value": 3 },
+        { "label": "Timeliness of Service", "value": 4 },
+        { "label": "Eagerness to Revisit", "value": 4 },
+        { "label": "Cleanliness", "value": 4 },
+        { "label": "Bang for Buck", "value": 0 },
+        { "label": "Music", "value": 0 },
+        { "label": "Noise Level", "value": 0 },
+        { "label": "Crowd Management", "value": 0 },
+        { "label": "Vibe", "value": 0 }
+      ],
+      "username": "Eatthischair",
+      "__collections__": {}
+    },
+    "LHkIzKB1IlloP8GCD8mL": {
+      "Comments": "",
+      "coords": { "lat": 32.81191700000001, "lng": -96.77069639999999 },
+      "createdAt": { "__time__": "2024-05-03T15:19:42.056Z" },
+      "dishes": [],
+      "favorite": false,
+      "placeId": "ChIJjRgW-kmfToYRYIGOuW9yD3I",
+      "placeName": "John's Cafe, Greenville Avenue, Dallas, TX, USA",
+      "ratings": [
+        { "label": "Overall", "value": 3 },
+        { "label": "Server Helpfulness", "value": 3 },
+        { "label": "Timeliness of Service", "value": 5 },
+        { "label": "Eagerness to Revisit", "value": 0 },
+        { "label": "Cleanliness", "value": 5 },
+        { "label": "Bang for Buck", "value": 5 },
+        { "label": "Music", "value": 3.5 },
+        { "label": "Noise Level", "value": 0 },
+        { "label": "Crowd Management", "value": 0 },
+        { "label": "Vibe", "value": 0 }
+      ],
+      "tags": [""],
+      "username": "Eatthischair",
+      "__collections__": {}
+    },
+    "Lnkk39oTdXxirjyUBtUS": {
+      "Comments": "Taqueria Meat Market Convenience Store just a block or so off 35 in Denton and amazing find. Consistently good. Have had many things on menu. It's not perfect. Little things here or there to improve or polish up. But overall one of the best Taqueria around. Simple seating. Counter service. ",
+      "coords": { "lat": 33.1896979, "lng": -97.1253241 },
+      "createdAt": { "__time__": "2024-05-21T15:32:53.653Z" },
+      "dishes": [
+        {
+          "comments": "Light in a good way on the rice inside which I like because then it's balanced in all flavors and doesn't mask the meat and tomatoes onions etc. Tortillas are made in house and part of the deliciousness. One of my favorite Burittos in DFW. Not too big either. ",
+          "name": "Burrito Beef Fajita",
+          "ratings": { "label": "Overall", "value": 4 }
+        },
+        {
+          "comments": "Tortilla made in house gives this an amazing overall flavor. The Desebrada meat is shredded and flavor was succulent and hints of tomato Chipotle fresh. Probably my favorite Gorditas in DFW are here.  ",
+          "name": "Gordita Desebrada",
+          "ratings": { "label": "Overall", "value": 4 }
+        },
+        {
+          "comments": "It was solid tonight and good but it's normally 4-4.5 chews. It was off today a little (for them)  one of the best horchatas in dfw",
+          "name": "Horchata",
+          "ratings": { "label": "Overall", "value": 3 }
+        }
+      ],
+      "favorite": false,
+      "placeId": "ChIJHX8Sru_LTYYRkVx1E8g67P8",
+      "placeName": "La Laguna Meat Market & Kitchen, Londonderry Lane, Denton, TX, USA",
+      "ratings": [
+        { "label": "Overall", "value": 4 },
+        { "label": "Server Helpfulness", "value": 4.5 },
+        { "label": "Timeliness of Service", "value": 4.5 },
+        { "label": "Eagerness to Revisit", "value": 4.5 },
+        { "label": "Cleanliness", "value": 4 },
+        { "label": "Bang for Buck", "value": 4 },
+        { "label": "Music", "value": 0 },
+        { "label": "Noise Level", "value": 0 },
+        { "label": "Crowd Management", "value": 0 },
+        { "label": "Vibe", "value": 3 }
+      ],
+      "tags": [
+        "Tacos",
+        " Tamales",
+        " Burrito s",
+        " Taqueria",
+        " Mexican",
+        " Gorditas",
+        " Horchata"
+      ],
+      "username": "thejohnwoz",
+      "__collections__": {}
+    },
+    "MZMEij1RwLgi5zv4hjnz": {
+      "Comments": "Very average and gets a 3 CHEW rating because it wasn't bad and I want to revisit b to try more and see how they do.  The Agua Frescas were pretty good. Flavors were pretty good. Wasn't as good as the recommendation about it and in some ways was really more of a 2.5 chew but decent 1st impression need to go again. ",
+      "coords": { "lat": 33.2184865, "lng": -97.1474855 },
+      "createdAt": { "__time__": "2024-07-29T20:11:40.198Z" },
+      "dishes": [],
+      "favorite": false,
+      "placeId": "ChIJkeULz_yOOY4RUwoB_ILhF1M",
+      "placeName": "El Cucuy Burritos, Bryan Street, Denton, TX, USA",
+      "ratings": [
+        { "label": "Overall", "value": 3 },
+        { "label": "Server Helpfulness", "value": 3 },
+        { "label": "Timeliness of Service", "value": 3 },
+        { "label": "Eagerness to Revisit", "value": 3 },
+        { "label": "Cleanliness", "value": 3 },
+        { "label": "Bang for Buck", "value": 3 },
+        { "label": "Music", "value": 0 },
+        { "label": "Noise Level", "value": 0 },
+        { "label": "Crowd Management", "value": 0 },
+        { "label": "Vibe", "value": 3 }
+      ],
+      "tags": [""],
+      "username": "thejohnwoz",
+      "__collections__": {}
+    },
+    "MZzA1qu3pc5KQPeACmnJ": {
+      "Comments": "The food is always fresh and hot when out for delivery. The Mongolian beef is one of my go to's on their menu. Service is always great!",
+      "coords": { "lat": 33.0704279, "lng": -97.0853126 },
+      "createdAt": { "__time__": "2025-04-21T02:15:24.316Z" },
+      "dishes": [],
+      "favorite": false,
+      "placeId": "ChIJ1zCZ1q8yTIYRQi9CIHQKmn4",
+      "placeName": "China Island Asian Grill, Long Prairie Road, Flower Mound, TX, USA",
+      "ratings": [
+        { "label": "Overall", "value": 3.5 },
+        { "label": "Server Helpfulness", "value": 4 },
+        { "label": "Timeliness of Service", "value": 4.5 },
+        { "label": "Eagerness to Revisit", "value": 5 },
+        { "label": "Cleanliness", "value": 5 },
+        { "label": "Bang for Buck", "value": 4 },
+        { "label": "Music", "value": 0 },
+        { "label": "Noise Level", "value": 3 },
+        { "label": "Crowd Management", "value": 3.5 },
+        { "label": "Vibe", "value": 4 }
+      ],
+      "tags": [""],
+      "username": null,
+      "__collections__": {}
+    },
+    "O3TgI0PUZG9D0VAPUyuk": {
+      "Comments": "Roadhouse type restaurant. Bar and live music as well some nights. Food seems pretty solid. Creative menu yet fits the vibe. More visits needed to get a full review. Looking forward to it. The have home made pies and small creamery ice cream. Very good. ",
+      "coords": { "lat": 33.0740347, "lng": -97.13171539999999 },
+      "createdAt": { "__time__": "2024-10-30T22:58:10.528Z" },
+      "dishes": [
+        {
+          "comments": "Good bun. Cooked correctly. Kind of an after taste though from the meat. Would order again. Solid burger. Fries were very good. Crispy outside and still moist inside.  ",
+          "name": "Wagyu Smash Burger & Fries ",
+          "ratings": { "label": "Overall", "value": 3 }
+        },
+        {
+          "comments": "Very well prepared. Olive oil, some cherry tomatoes, onion. Tasty appetizer. ",
+          "name": "Black Bean Hummus",
+          "ratings": { "label": "Overall", "value": 3.5 }
+        },
+        {
+          "comments": "Fresh and crispy chips. Salsa and Queso were flavorful & fresh",
+          "name": "Chips & Salsa & Queso",
+          "ratings": { "label": "Overall", "value": 3.5 }
+        },
+        {
+          "comments": "Great breading. Great bun. Tasty sauce. Chicken a little over cooked or it would score higher. ",
+          "name": "Crispy Hot Chicken Sandwich ",
+          "ratings": { "label": "Overall", "value": 3 }
+        }
+      ],
+      "favorite": false,
+      "placeId": "ChIJMa-4aHTNTYYRXeeGeR_4arU",
+      "placeName": "The Bartonville Store, McMakin Road, Bartonville, TX, USA",
+      "ratings": [
+        { "label": "Overall", "value": 3 },
+        { "label": "Server Helpfulness", "value": 4 },
+        { "label": "Timeliness of Service", "value": 4 },
+        { "label": "Eagerness to Revisit", "value": 3.5 },
+        { "label": "Cleanliness", "value": 4 },
+        { "label": "Bang for Buck", "value": 3.5 },
+        { "label": "Music", "value": 0 },
+        { "label": "Noise Level", "value": 0 },
+        { "label": "Crowd Management", "value": 0 },
+        { "label": "Vibe", "value": 4 }
+      ],
+      "tags": ["Roadhouse", " live music", " appetizers", " desert"],
+      "username": "thejohnwoz",
+      "__collections__": {}
+    },
+    "OJTt1FW0ovEJMfJJvCT5": {
+      "Comments": "",
+      "coords": { "lat": 32.8185084, "lng": -96.8138561 },
+      "createdAt": { "__time__": "2024-04-19T22:01:49.457Z" },
+      "dishes": [],
+      "favorite": false,
+      "placeId": "ChIJ-80LnrieToYRT2mLluVcPLg",
+      "placeName": "McDonald's, Lemmon Avenue, Dallas, TX, USA",
+      "ratings": [
+        { "label": "Overall", "value": 2.5 },
+        { "label": "Server Helpfulness", "value": 2.5 },
+        { "label": "Timeliness of Service", "value": 3.5 },
+        { "label": "Eagerness to Revisit", "value": 0 },
+        { "label": "Cleanliness", "value": 2.5 },
+        { "label": "Bang for Buck", "value": 3.5 },
+        { "label": "Music", "value": 2.5 },
+        { "label": "Noise Level", "value": 3.5 },
+        { "label": "Crowd Management", "value": 3.5 },
+        { "label": "Vibe", "value": 3.5 }
+      ],
+      "username": "Eatthischair",
+      "__collections__": {}
+    },
+    "OS9WU03Nmn1y7YZD4OPk": {
+      "Comments": "",
+      "coords": { "lat": 32.7981589, "lng": -96.8016362 },
+      "createdAt": { "__time__": "2024-05-03T17:46:07.366Z" },
+      "dishes": [],
+      "favorite": false,
+      "placeId": "ChIJm3M4bC6ZToYRoH9hdmNiqFA",
+      "placeName": "Chipotle Mexican Grill, McKinney Avenue, Dallas, TX, USA",
+      "ratings": [
+        { "label": "Overall", "value": 5 },
+        { "label": "Server Helpfulness", "value": 4.5 },
+        { "label": "Timeliness of Service", "value": 0 },
+        { "label": "Eagerness to Revisit", "value": 2.5 },
+        { "label": "Cleanliness", "value": 4 },
+        { "label": "Bang for Buck", "value": 0 },
+        { "label": "Music", "value": 0 },
+        { "label": "Noise Level", "value": 0 },
+        { "label": "Crowd Management", "value": 0 },
+        { "label": "Vibe", "value": 0 }
+      ],
+      "tags": [""],
+      "username": "Eatthischair",
+      "__collections__": {}
+    },
+    "Oc8OhtpBFmqNfXLRk8OQ": {
+      "Comments": "",
+      "coords": { "lat": 32.79391179999999, "lng": -96.803308 },
+      "createdAt": { "__time__": "2024-04-09T02:44:56.278Z" },
+      "dishes": [
+        {
+          "comments": "",
+          "name": "aids burger",
+          "ratings": { "label": "Overall", "value": 0 }
+        }
+      ],
+      "favorite": true,
+      "placeId": "ChIJ5Yd2GzCZToYRAt_qy6MmQzk",
+      "placeName": "Moxies Dallas Uptown Restaurant, Crescent Court, Dallas, TX, USA",
+      "ratings": [
+        { "label": "Overall", "value": 5 },
+        { "label": "Server Helpfulness", "value": 4 },
+        { "label": "Timeliness of Service", "value": 4 },
+        { "label": "Eagerness to Revisit", "value": 4 },
+        { "label": "Cleanliness", "value": 3 },
+        { "label": "Bang for Buck", "value": 0 },
+        { "label": "Music", "value": 0 },
+        { "label": "Noise Level", "value": 0 },
+        { "label": "Crowd Management", "value": 3 },
+        { "label": "Vibe", "value": 3 }
+      ],
+      "username": "Eatthischair",
+      "__collections__": {}
+    },
+    "OoJgOanmLwIblXMXCqSP": {
+      "Comments": "This location is the only one close serving Spouse Like A House. Very good quality of ice cream amd sherbert. One of my favorite Ice Cream Parlors anywhere in the country which says alot because it's a chain from Ohio. All made in house in the location. The 2 locations in Flower Mound & Highland Village don't offer a few flavors amd honestly it what keeps it from getting 4 chews. It's kinda bs honestly. ",
+      "coords": { "lat": 33.0358576, "lng": -97.07277649999999 },
+      "createdAt": { "__time__": "2024-07-29T20:22:05.306Z" },
+      "dishes": [
+        {
+          "comments": "Handel's Sherbert is one of my favorite ever in my life. And I'm not a big fan usually because I think most people mess it up by it being too watery or too sugary amd not fruit flavor or fresh enough. But they really do a great job on their sherbert. ",
+          "name": "Sherbert ",
+          "ratings": { "label": "Overall", "value": 4 }
+        }
+      ],
+      "favorite": false,
+      "placeId": "ChIJO-8ok6stTIYR3QViHaQI2lU",
+      "placeName": "Handel's Homemade Ice Cream, Cross Timbers Rd, Flower Mound, TX, USA",
+      "ratings": [
+        { "label": "Overall", "value": 3.5 },
+        { "label": "Server Helpfulness", "value": 4 },
+        { "label": "Timeliness of Service", "value": 4 },
+        { "label": "Eagerness to Revisit", "value": 5 },
+        { "label": "Cleanliness", "value": 4 },
+        { "label": "Bang for Buck", "value": 3.5 },
+        { "label": "Music", "value": 0 },
+        { "label": "Noise Level", "value": 0 },
+        { "label": "Crowd Management", "value": 0 },
+        { "label": "Vibe", "value": 4 }
+      ],
+      "tags": ["Ice Cream", " Sherbert", " Sorbet", " Milkshake"],
+      "username": "thejohnwoz",
+      "__collections__": {}
+    },
+    "OsyB0f9MNCPX6cWF9GIY": {
+      "Comments": "This is one of the best over all restaurants in DFW. Consistently good for decades. Great variety of dishes. ",
+      "coords": { "lat": 32.9552657, "lng": -96.84466019999999 },
+      "createdAt": { "__time__": "2024-05-13T01:25:58.233Z" },
+      "dishes": [
+        {
+          "comments": "This is a unique Crab Leg because it's HUGE. We have nick named it the bat. Always top quality amd always delicious.",
+          "name": "King Crab",
+          "ratings": { "label": "Overall", "value": 5 }
+        },
+        {
+          "comments": "The clams and sauce are so good. It has a legit and authentic preparation. ",
+          "name": "Clams over pasta",
+          "ratings": { "label": "Overall", "value": 4 }
+        },
+        {
+          "comments": "Quality of clams helps this and the rest of ingredients make it the Best in DFW. Served in a mug which makes it even better. ",
+          "name": "Clam Chowder",
+          "ratings": { "label": "Overall", "value": 4 }
+        },
+        {
+          "comments": "This is one if top 3 I've ever had in DFW. ",
+          "name": "Keylime Pie",
+          "ratings": { "label": "Overall", "value": 4 }
+        }
+      ],
+      "favorite": true,
+      "placeId": "ChIJP68FvsgmTIYRsz92zIB6IsY",
+      "placeName": "Lefty's Lobster and Chowder House, Belt Line Road, Addison, TX, USA",
+      "ratings": [
+        { "label": "Overall", "value": 4 },
+        { "label": "Server Helpfulness", "value": 5 },
+        { "label": "Timeliness of Service", "value": 4 },
+        { "label": "Eagerness to Revisit", "value": 5 },
+        { "label": "Cleanliness", "value": 4 },
+        { "label": "Bang for Buck", "value": 4 },
+        { "label": "Music", "value": 0 },
+        { "label": "Noise Level", "value": 3 },
+        { "label": "Crowd Management", "value": 4 },
+        { "label": "Vibe", "value": 4 }
+      ],
+      "tags": [
+        "Fish",
+        " Seafood",
+        " Crab",
+        " King Crab",
+        " Lobster",
+        " pasta",
+        " chowder house",
+        " New England seafood"
+      ],
+      "username": "thejohnwoz",
+      "__collections__": {}
+    },
+    "OveWkRK6FRKzuv7H9Lor": {
+      "Comments": "",
+      "coords": { "lat": 32.8361124, "lng": -96.75618399999999 },
+      "createdAt": { "__time__": "2024-04-09T22:30:52.955Z" },
+      "dishes": [],
+      "favorite": true,
+      "placeId": "ChIJaz8lQGSfToYR9WtY6YaJo1g",
+      "placeName": "Burger House, East Mockingbird Lane, Dallas, TX, USA",
+      "ratings": [
+        { "label": "Overall", "value": 5 },
+        { "label": "Server Helpfulness", "value": 0 },
+        { "label": "Timeliness of Service", "value": 3 },
+        { "label": "Eagerness to Revisit", "value": 0 },
+        { "label": "Cleanliness", "value": 5 },
+        { "label": "Bang for Buck", "value": 4 },
+        { "label": "Music", "value": 0 },
+        { "label": "Noise Level", "value": 0 },
+        { "label": "Crowd Management", "value": 4 },
+        { "label": "Vibe", "value": 0 }
+      ],
+      "username": "Eatthischair",
+      "__collections__": {}
+    }
+  }
+}
