@@ -10,7 +10,6 @@ export default function Page() {
           return <SliderDemo label={label} key={label} icon={icon} idx={idx} />;
         })}
       </div>
-      {/* <SliderDemo /> */}
     </div>
   );
 }

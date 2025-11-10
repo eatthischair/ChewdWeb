@@ -15,45 +15,50 @@ import {
   Sparkle,
 } from 'lucide-react';
 
-type SliderProps = React.ComponentProps<typeof Slider>;
+interface SliderProps extends React.ComponentProps<typeof Slider> {
+  label: string;
+  icon: string;
+  idx: number;
+}
 
 export function SliderDemo({
   label,
-  icon,
-  idx,
+  // icon,
+  // idx,
   className,
   ...props
 }: SliderProps) {
-  const icons = {
-    Heart,
-    Smile,
-    TrendingUp,
-    ThumbsUp,
-    BadgeCheck,
-    BadgeDollarSign,
-    Music,
-    Volume,
-    Users,
-    Sparkle,
-  };
+  // const icons = {
+  //   Heart,
+  //   Smile,
+  //   TrendingUp,
+  //   ThumbsUp,
+  //   BadgeCheck,
+  //   BadgeDollarSign,
+  //   Music,
+  //   Volume,
+  //   Users,
+  //   Sparkle,
+  // };
+  // const Icon = icons[icon];
 
-  const [val, setVal] = useState(2.5);
-
-  const Icon = icons[icon];
+  const [val, setVal] = useState([2.5]);
 
   return (
     <div className=" py-8 sm:px-12 md:px-120 flex flex-col justify-center">
-      <div className="p-4 flex justify-between">
-        {label}
-        <Icon size={20} />
-        {val}
-      </div>
+      <li className="p-4 flex justify-between">
+        <span>{label}</span>
+        <span>{val}</span>
+      </li>
 
       <Slider
         defaultValue={[2.5]}
         max={5}
         step={0.5}
-        onValueChange={(e) => setVal(e)}
+        onValueChange={(e) => {
+          console.log('e', e, typeof e);
+          setVal(e);
+        }}
         className={cn(' border ', className)}
         {...props}
       />

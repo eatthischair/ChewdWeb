@@ -6,21 +6,18 @@ export const yetToVisit = {
       placeName:
         'Buzz & Bustle Coffee House & Shop - The Village Dallas, Village Glen Drive, Dallas, TX, USA',
       username: 'Eatthischair',
-      __collections__: {},
     },
     '2uvYy9lcAaiP6VZ8A4mK': {
       coords: { lat: 32.8149831, lng: -96.78912059999999 },
       placeId: 'ChIJVR70ZCifToYR1FrAi_y5wjM',
       placeName: 'BUZZBREWS Kitchen (Central), N Central Expy, Dallas, TX, USA',
       username: 'Eatthischair',
-      __collections__: {},
     },
     '3iuQzdH7lIhsGrxoEpHg': {
       coords: { lat: 32.7804991, lng: -96.8018622 },
       placeId: 'ChIJjyyYFRiZToYRd7al9_0rXEU',
       placeName: 'Grill & Vine, Main Street, Dallas, TX, USA',
       username: 'Eatthischair',
-      __collections__: {},
     },
     '4inM9ptOqjqIG3yBdsdL': {
       coords: { lat: 32.931171, lng: -96.92258749999999 },
@@ -28,56 +25,48 @@ export const yetToVisit = {
       placeName:
         'BuzzBallz / Southern Champion LLC, McDaniel Drive, Carrollton, TX, USA',
       username: 'Eatthischair',
-      __collections__: {},
     },
     '4lUxBRadrYawp1fd8ILD': {
       coords: { lat: 32.8745263, lng: -96.90315679999999 },
       placeId: 'ChIJ-chug0OdToYRxF-QjPRI39M',
       placeName: 'Penske Truck Rental, Goodnight Lane, Dallas, TX, USA',
       username: 'Eatthischair',
-      __collections__: {},
     },
     '5FBA3uGyYh3PD78N5azh': {
       coords: { lat: 32.7231585, lng: -97.35644669999999 },
       placeId: 'ChIJO72Uyi1yToYRxZaZmhQ8U0E',
       placeName: 'Fort Worth Zoo, Colonial Parkway, Fort Worth, TX, USA',
       username: null,
-      __collections__: {},
     },
     '5uWalU1WseSY8xN5mN94': {
       coords: { lat: 32.8937286, lng: -96.70181420000002 },
       placeId: 'ChIJ18S4VIGgToYRUWO3oruTXt8',
       placeName: 'AAA Sand & Stone, Miller Road, Dallas, TX, USA',
       username: 'Eatthischair',
-      __collections__: {},
     },
     '6TaUycEMtd7DRzTqKIX6': {
       coords: { lat: 32.8117773, lng: -96.7743709 },
       placeId: 'ChIJfQlPmlWZToYRylWaAclV5NQ',
       placeName: 'Burger Schmurger, McMillan Avenue, Dallas, TX, USA',
       username: null,
-      __collections__: {},
     },
     '7U63a0z4ojNLUGgXDb17': {
       coords: { lat: 32.7482236, lng: -96.8251975 },
       placeId: 'ChIJrbEZjauZToYRleQ50RNzuos',
       placeName: 'Taco Y Vino, West Eighth Street, Dallas, TX, USA',
       username: 'Eatthischair',
-      __collections__: {},
     },
     '8SloI3WZKZcFvyd3bl9P': {
       coords: { lat: 33.0704279, lng: -97.0853126 },
       placeId: 'ChIJ1zCZ1q8yTIYRQi9CIHQKmn4',
       placeName: 'China Island Grill, Long Prairie Road, Flower Mound, TX, USA',
       username: 'thejohnwoz',
-      __collections__: {},
     },
     '949v6070NFMTxITmCBfA': {
       coords: { lat: 32.8117773, lng: -96.7743709 },
       placeId: 'ChIJfQlPmlWZToYRylWaAclV5NQ',
       placeName: 'Burger Schmurger, McMillan Avenue, Dallas, TX, USA',
       username: 'Eatthischair',
-      __collections__: {},
     },
     E26w2gPK6sQ4lr0AAeOJ: {
       coords: { lat: 32.9020822, lng: -97.3487435 },
@@ -85,35 +74,30 @@ export const yetToVisit = {
       placeName:
         'Bureau of Engraving and Printing - Western Currency Facility Tour and Visitor Center, Blue Mound Road, Fort Worth, TX, USA',
       username: 'Eatthischair',
-      __collections__: {},
     },
     F9uh9zTCEZTE7YsL49x4: {
       coords: { lat: 33.2185233, lng: -97.14754719999999 },
       placeId: 'ChIJfaPDdgDLTYYRC9SS7zzMWSA',
       placeName: 'El Cucuy Birritos, Bryan Street, Denton, TX, USA',
       username: 'thejohnwoz',
-      __collections__: {},
     },
     L2HHdJyc6HLMPz0KUFTC: {
       coords: { lat: 32.8497522, lng: -96.7870827 },
       placeId: 'ChIJnZo4qgCfToYRCi0bu67JwUw',
       placeName: 'Burger House, Hillcrest Avenue, Dallas, TX, USA',
       username: 'Eatthischair',
-      __collections__: {},
     },
     L91ZKUvbedG1tmvezKx2: {
       coords: { lat: 32.81362660000001, lng: -96.771023 },
       placeId: 'ChIJh6EcHwCfToYRBFZG5GcqG38',
       placeName: 'Medium Rare, Alta Avenue, Dallas, TX, USA',
       username: 'thejohnwoz',
-      __collections__: {},
     },
     L96fuhSzxskm7rEB8Cb5: {
       coords: { lat: 33.0704279, lng: -97.0853126 },
       placeId: 'ChIJ1zCZ1q8yTIYRQi9CIHQKmn4',
       placeName: 'China Island Grill, Long Prairie Road, Flower Mound, TX, USA',
       username: 'thejohnwoz',
-      __collections__: {},
     },
     LDile6NHC0MmvTHykmgX: {
       coords: { lat: 33.0543282, lng: -96.6845151 },
@@ -121,28 +105,24 @@ export const yetToVisit = {
       placeName:
         'Plano Event Center, East Spring Creek Parkway, Plano, TX, USA',
       username: null,
-      __collections__: {},
     },
     SsS0Njn5Jk5XILWM6xiw: {
       coords: { lat: 32.9654105, lng: -96.84558310000001 },
       placeId: 'ChIJBcoYy8kmTIYRDAznLKvrjes',
       placeName: 'SSS International/GSN, Chenault Drive, Carrollton, TX, USA',
       username: 'Eatthischair',
-      __collections__: {},
     },
     VP5PyZL8PYP1GyBiM8cR: {
       coords: { lat: 32.93537619999999, lng: -96.8897356 },
       placeId: 'ChIJv7LViUEnTIYR2NNOKa-OaVk',
       placeName: 'Leylita restaurante 2, Josey Lane, Farmers Branch, TX, USA',
       username: 'thejohnwoz',
-      __collections__: {},
     },
     VPVpU0SsVGFSEsWIkW6K: {
       coords: { lat: 33.20119, lng: -97.19658199999999 },
       placeId: 'ChIJjX9KX5HJTYYRKIYE9yt1OPY',
       placeName: 'Denton Enterprise Airport, Airport Road, Denton, TX, USA',
       username: null,
-      __collections__: {},
     },
     X6arnwRwgJmWWuZRyijU: {
       coords: { lat: 32.8866811, lng: -97.0981771 },
@@ -150,28 +130,24 @@ export const yetToVisit = {
       placeName:
         'Chicken N Pickle - Grapevine, Merlot Avenue, Grapevine, TX, USA',
       username: 'Eatthischair',
-      __collections__: {},
     },
     ZbQepyeijSi0OLjZNmHp: {
       coords: { lat: 33.0962795, lng: -96.80402120000001 },
       placeId: 'ChIJ10uZK8w8TIYRYR3e_l3HNQU',
       placeName: "McDonald's, State Highway 121, Plano, TX, USA",
       username: null,
-      __collections__: {},
     },
     aAuwvIHMfbyd3ttl2toD: {
       coords: { lat: 33.0338823, lng: -96.70032309999999 },
       placeId: 'ChIJm4TfXQcZTIYRQXRNyqkDcWA',
       placeName: 'Plano Super Bowl, K Avenue, Plano, TX, USA',
       username: null,
-      __collections__: {},
     },
     aLAk7C1o52gZ4Dodn8vi: {
       coords: { lat: 33.0433961, lng: -96.8136547 },
       placeId: 'ChIJ_Vi1kGwjTIYRoGJwaBU6LLY',
       placeName: 'Plano West Senior High, West Parker Road, Plano, TX, USA',
       username: null,
-      __collections__: {},
     },
     aNvwAapYpTBr42QjHi2O: {
       coords: { lat: 32.756346, lng: -97.30030599999999 },
@@ -179,28 +155,24 @@ export const yetToVisit = {
       placeName:
         "AAA Crain's Auto Salvage LLC, Van Horn Avenue, Fort Worth, TX, USA",
       username: 'Eatthischair',
-      __collections__: {},
     },
     cMUbsMRqx4mrRXgmfD5R: {
       coords: { lat: 32.8149831, lng: -96.78912059999999 },
       placeId: 'ChIJVR70ZCifToYR1FrAi_y5wjM',
       placeName: 'BUZZBREWS Kitchen (Central), N Central Expy, Dallas, TX, USA',
       username: 'Eatthischair',
-      __collections__: {},
     },
     f7XY0bsi6nopM7aOtMcX: {
       coords: { lat: 32.8402629, lng: -96.9918299 },
       placeId: 'ChIJGW5SxsuDToYROv_y0F5bXrs',
       placeName: 'Peak Restaurant & Bar, West Airport Freeway, Irving, TX, USA',
       username: 'thejohnwoz',
-      __collections__: {},
     },
     jCbKsZGP1wgQqhONEJ7n: {
       coords: { lat: 32.9207101, lng: -96.7665909 },
       placeId: 'ChIJ-YJXZj4gTIYRn-360s3uVjA',
       placeName: 'Aasma Khandekar, N Central Expy, Dallas, TX, USA',
       username: 'Eatthischair',
-      __collections__: {},
     },
     jusRR4tAIsUitFPqOeSj: {
       coords: { lat: 33.0712221, lng: -96.8722755 },
@@ -208,21 +180,18 @@ export const yetToVisit = {
       placeName:
         'Velvet Taco, Nebraska Furniture Mart Drive, The Colony, TX, USA',
       username: 'Eatthischair',
-      __collections__: {},
     },
     lC3n22eoWhjTM8EDnsXB: {
       coords: { lat: 33.0396504, lng: -96.645586 },
       placeId: 'ChIJ6X_EDo0bTIYRC4NYUMDghDU',
       placeName: 'Plano East Senior High, Los Rios Boulevard, Plano, TX, USA',
       username: null,
-      __collections__: {},
     },
     lPBCoBi4GyB7Ap7cSfFW: {
       coords: { lat: 32.9559215, lng: -96.8292328 },
       placeId: 'ChIJJWgKmTYhTIYRkPgX5aoOLx8',
       placeName: 'Outback Steakhouse, Addison Road, Addison, TX, USA',
       username: 'Eatthischair',
-      __collections__: {},
     },
     lwdC2UyCU8c7VTmjhkj2: {
       coords: { lat: 32.8595004, lng: -96.76239269999999 },
@@ -230,21 +199,18 @@ export const yetToVisit = {
       placeName:
         'Buzz & Bustle Coffee House & Shop - The Village Dallas, Village Glen Drive, Dallas, TX, USA',
       username: 'Eatthischair',
-      __collections__: {},
     },
     mzMdlNzLrADvSdoNKDyw: {
       coords: { lat: 32.8361124, lng: -96.75618399999999 },
       placeId: 'ChIJaz8lQGSfToYR9WtY6YaJo1g',
       placeName: 'Burger House, East Mockingbird Lane, Dallas, TX, USA',
       username: 'Eatthischair',
-      __collections__: {},
     },
     oWGidoOuVdt5DLD3EzeZ: {
       coords: { lat: 33.18419919999999, lng: -97.1075793 },
       placeId: 'ChIJt_xrKSTLTYYRVJJFGPGSf-Y',
       placeName: 'RG Burgers and Grill, South Interstate 35, Denton, TX, USA',
       username: 'thejohnwoz',
-      __collections__: {},
     },
     qMS8HHHLnk1UQS8m9cBG: {
       coords: { lat: 33.0543282, lng: -96.6845151 },
@@ -252,21 +218,18 @@ export const yetToVisit = {
       placeName:
         'Plano Event Center, East Spring Creek Parkway, Plano, TX, USA',
       username: null,
-      __collections__: {},
     },
     w8RiehJJzScpK6wlgcUP: {
       coords: { lat: 32.77144260000001, lng: -96.7456984 },
       placeId: 'ChIJLSP3OfaYToYR5nWJQ3NoLMM',
       placeName: 'Aunt Irene Kitchen, Lagow Street, Dallas, TX, USA',
       username: 'thejohnwoz',
-      __collections__: {},
     },
     wZkPgG0WUVVRpNFcwsxP: {
       coords: { lat: 33.21380029999999, lng: -97.1334578 },
       placeId: 'ChIJoXL8cYXLTYYRsTVu9mo7wJI',
       placeName: 'Desi Adda, South Elm Street, Denton, TX, USA',
       username: 'thejohnwoz',
-      __collections__: {},
     },
     wtZKawsEafhxl7Lu59Pe: {
       coords: { lat: 32.7697069, lng: -97.2868884 },
@@ -274,7 +237,6 @@ export const yetToVisit = {
       placeName:
         'AIDS Outreach Center, North Beach Street, Fort Worth, TX, USA',
       username: 'Eatthischair',
-      __collections__: {},
     },
   },
 };

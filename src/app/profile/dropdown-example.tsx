@@ -4,18 +4,24 @@ import {
   DropdownMenuContent,
   DropdownMenuGroup,
   DropdownMenuItem,
-  DropdownMenuLabel,
-  DropdownMenuPortal,
-  DropdownMenuSeparator,
-  DropdownMenuShortcut,
-  DropdownMenuSub,
-  DropdownMenuSubContent,
-  DropdownMenuSubTrigger,
+  // DropdownMenuLabel,
+  // DropdownMenuPortal,
+  // DropdownMenuSeparator,
+  // DropdownMenuShortcut,
+  // DropdownMenuSub,
+  // DropdownMenuSubContent,
+  // DropdownMenuSubTrigger,
   DropdownMenuTrigger,
 } from '../../components/ui/dropdown-menu';
-import { reviews } from '../../json/reviews';
+import { Reviews, Yets } from 'types';
 
-export function DropdownMenuDemo({ items, name }) {
+type List = Reviews | Yets;
+type DropdownParams = {
+  items: List;
+  name: string;
+};
+
+export function DropdownMenuDemo({ items, name }: DropdownParams) {
   return (
     <DropdownMenu>
       <DropdownMenuTrigger asChild>

@@ -65,7 +65,6 @@ export const reviews = {
         { label: 'Vibe', value: 3 },
       ],
       username: 'thejohnwoz',
-      __collections__: {},
     },
     '0iVOSUlP1vLo4ZAXZtu7': {
       Comments: '',
@@ -88,7 +87,6 @@ export const reviews = {
         { label: 'Vibe', value: 0 },
       ],
       username: 'Eatthischair',
-      __collections__: {},
     },
     '0romidxgrYDSDQskNRSU': {
       Comments:
@@ -121,7 +119,6 @@ export const reviews = {
       ],
       tags: ['Ice Cream', ' Sherbert', ' Sorbet', ' Milkshake'],
       username: 'thejohnwoz',
-      __collections__: {},
     },
     '0wC2LsCFaLAc4SiOYNE1': {
       Comments: '',
@@ -143,7 +140,6 @@ export const reviews = {
         { label: 'Vibe', value: 0 },
       ],
       username: 'Eatthischair',
-      __collections__: {},
     },
     '0xYc2wfAWk2DRiKLP1GR': {
       Comments:
@@ -190,7 +186,6 @@ export const reviews = {
         ' ',
       ],
       username: 'thejohnwoz',
-      __collections__: {},
     },
     '2lwujyzZUw5LwXqhyPS8': {
       Comments:
@@ -234,7 +229,6 @@ export const reviews = {
       ],
       tags: ['Seafood', ' Mexican', ' Authentic', ' Sinaloa', ' '],
       username: 'thejohnwoz',
-      __collections__: {},
     },
     '2ofUtWvLtfBPtYePbrPo': {
       Comments:
@@ -266,7 +260,6 @@ export const reviews = {
       ],
       tags: [''],
       username: 'thejohnwoz',
-      __collections__: {},
     },
     '3cYqlSLGI6lLzKaYSwGw': {
       Comments: '',
@@ -290,7 +283,6 @@ export const reviews = {
       ],
       tags: [''],
       username: 'Eatthischair',
-      __collections__: {},
     },
     '4StUU7FkTRjK2QkKDVgS': {
       Comments: 'Food took to long to come out. Fries were soggy and cold. ',
@@ -314,7 +306,6 @@ export const reviews = {
       ],
       tags: ['Burger', ' Fries', ' shakes'],
       username: null,
-      __collections__: {},
     },
     '4r4z9Oqlb5fEOnU7MXnP': {
       Comments: '',
@@ -365,7 +356,6 @@ export const reviews = {
         ' szechuan',
       ],
       username: 'thejohnwoz',
-      __collections__: {},
     },
     '5YZSzPG41xIAep7kChUj': {
       Comments: '',
@@ -389,7 +379,6 @@ export const reviews = {
       ],
       tags: [''],
       username: 'Eatthischair',
-      __collections__: {},
     },
     '644yk3jx6VFSFgXPaD9L': {
       Comments: '',
@@ -412,7 +401,6 @@ export const reviews = {
         { label: 'Vibe', value: 4 },
       ],
       username: 'Eatthischair',
-      __collections__: {},
     },
     '66IxJ2vlNAYJ47pUlwHE': {
       Comments:
@@ -444,7 +432,6 @@ export const reviews = {
       ],
       tags: ['Sushi', ' takeout', ' '],
       username: 'thejohnwoz',
-      __collections__: {},
     },
     '7X4gEuwQnuNUb4iCFBD0': {
       Comments: '',
@@ -488,7 +475,6 @@ export const reviews = {
         ' Taqueria',
       ],
       username: 'thejohnwoz',
-      __collections__: {},
     },
     '7geZ7xPq6mIbMkpY3iE4': {
       Comments: '',
@@ -518,7 +504,6 @@ export const reviews = {
         { label: 'Vibe', value: 0 },
       ],
       username: 'Eatthischair',
-      __collections__: {},
     },
     '8oRSIfDx4IQ2bppeU1Gl': {
       Comments: '',
@@ -542,7 +527,6 @@ export const reviews = {
       ],
       tags: [''],
       username: 'Eatthischair',
-      __collections__: {},
     },
     '9FEohAIB3452EPURoDL6': {
       Comments: 'Multiple trips and its very hit and miss.',
@@ -573,7 +557,6 @@ export const reviews = {
       ],
       tags: ['Coffee', ' Tea', ' '],
       username: 'thejohnwoz',
-      __collections__: {},
     },
     AgwPP7kXOlLf5jntiPHq: {
       Comments: '',
@@ -597,12 +580,11 @@ export const reviews = {
       ],
       tags: [''],
       username: 'Eatthischair',
-      __collections__: {},
     },
     AiXRNmpiAFKHqvlvQfL9: {
       Comments:
         "Sunday Lunch. We were the only people there at the time around 1:30pm. The fried onion strips and the Banderos were amazing. For the entree I had the sliced brisket and chopped brisket. Really fatty for a brisket and the smothered it in BBQ sauce. For side I had the vegetable skewers...WAY too salted. Over all it could have been better. I'll give it another chance, but not in a rush.",
-      coords: '',
+      coords: null,
       createdAt: { __time__: '2024-05-13T23:58:09.921Z' },
       dishes: [
         {
@@ -638,7 +620,6 @@ export const reviews = {
       ],
       tags: [''],
       username: 'Milrat45_',
-      __collections__: {},
     },
     B7UFxwyUMUGT89sIQDIm: {
       Comments:
@@ -663,7 +644,6 @@ export const reviews = {
       ],
       tags: ['Burgers', ' hotdogs', ' fries', ' specialty burgers'],
       username: null,
-      __collections__: {},
     },
     Be73oThY3l9NTd6uSurB: {
       Comments:
@@ -689,7 +669,6 @@ export const reviews = {
       ],
       tags: ['Brazilian', ' Steakhouse', ' '],
       username: 'thejohnwoz',
-      __collections__: {},
     },
     CBKqlPAXkSj4o6LDKg9O: {
       Comments:
@@ -734,7 +713,6 @@ export const reviews = {
         ' brunch',
       ],
       username: 'thejohnwoz',
-      __collections__: {},
     },
     CNzB2xnjd75yHyUPhMHG: {
       Comments:
@@ -759,7 +737,6 @@ export const reviews = {
       ],
       tags: ['Shrimp', ' fast casual', ' Hawaiian'],
       username: 'thejohnwoz',
-      __collections__: {},
     },
     CUx0nupHUAYPjMGUk2CM: {
       Comments: '',
@@ -784,7 +761,6 @@ export const reviews = {
       ],
       tags: [''],
       username: 'Eatthischair',
-      __collections__: {},
     },
     Cj0LTM9hoKOjHtgPiLEo: {
       Comments: '',
@@ -808,7 +784,6 @@ export const reviews = {
       ],
       tags: [''],
       username: 'Eatthischair',
-      __collections__: {},
     },
     DAg2hgFx0l6OF7AG08RJ: {
       Comments: '',
@@ -832,7 +807,6 @@ export const reviews = {
       ],
       tags: [''],
       username: 'Eatthischair',
-      __collections__: {},
     },
     DwOEYNAVBxvHpflbKGL7: {
       Comments: '',
@@ -856,7 +830,6 @@ export const reviews = {
       ],
       tags: [''],
       username: 'Eatthischair',
-      __collections__: {},
     },
     ELJzuTAp1aUAolLFHxRO: {
       Comments: 'test for async storage',
@@ -880,7 +853,6 @@ export const reviews = {
       ],
       tags: [''],
       username: null,
-      __collections__: {},
     },
     ESvDJjVsUJCnP6wFTWyQ: {
       Comments: 'Penis',
@@ -904,11 +876,10 @@ export const reviews = {
       ],
       tags: [''],
       username: 'Eatthischair',
-      __collections__: {},
     },
     FvDFdqBQPvXW21B5GLB1: {
       Comments: '',
-      coords: '',
+      coords: null,
       createdAt: { __time__: '2024-05-14T00:06:23.194Z' },
       dishes: [],
       favorite: false,
@@ -928,7 +899,6 @@ export const reviews = {
       ],
       tags: [''],
       username: 'Milrat45_',
-      __collections__: {},
     },
     FwfuNxWZA8gvo5MPvsXA: {
       Comments:
@@ -976,7 +946,6 @@ export const reviews = {
       ],
       tags: ['Chinese', ' hole in the wall', ' '],
       username: 'thejohnwoz',
-      __collections__: {},
     },
     FzVUXvJ9Sk1XInAdac1N: {
       Comments:
@@ -1057,7 +1026,6 @@ export const reviews = {
         ' ',
       ],
       username: 'thejohnwoz',
-      __collections__: {},
     },
     GneOvdLIYSShWiWbBrak: {
       Comments:
@@ -1089,7 +1057,6 @@ export const reviews = {
       ],
       tags: ['Bagels', ' breakfast', ' sandwiches'],
       username: 'thejohnwoz',
-      __collections__: {},
     },
     Ipso40KHttZ13LPFQ4Mk: {
       Comments: '',
@@ -1113,7 +1080,6 @@ export const reviews = {
       ],
       tags: [''],
       username: null,
-      __collections__: {},
     },
     IqxtuS0C6UwBOlKyAr8g: {
       Comments:
@@ -1163,7 +1129,6 @@ export const reviews = {
       ],
       tags: [''],
       username: 'thejohnwoz',
-      __collections__: {},
     },
     Jr210GIgnUkgpkVGCQDw: {
       Comments:
@@ -1207,7 +1172,6 @@ export const reviews = {
       ],
       tags: ['Chinese', ' soup', '  desert'],
       username: 'thejohnwoz',
-      __collections__: {},
     },
     KGADOMBMTS4DOf2kAEsI: {
       Comments:
@@ -1233,7 +1197,6 @@ export const reviews = {
       ],
       tags: ['Venezuelan', ' Areas', ' empanadas', ' '],
       username: 'thejohnwoz',
-      __collections__: {},
     },
     KIjavdkXWWwjQPLwGWcc: {
       Comments: '',
@@ -1257,7 +1220,6 @@ export const reviews = {
       ],
       tags: [''],
       username: 'testApr30',
-      __collections__: {},
     },
     KOqTOFDLyk2TzAxnF2IC: {
       Comments: '',
@@ -1280,7 +1242,6 @@ export const reviews = {
         { label: 'Vibe', value: 0 },
       ],
       username: 'Eatthischair',
-      __collections__: {},
     },
     LHkIzKB1IlloP8GCD8mL: {
       Comments: '',
@@ -1304,7 +1265,6 @@ export const reviews = {
       ],
       tags: [''],
       username: 'Eatthischair',
-      __collections__: {},
     },
     Lnkk39oTdXxirjyUBtUS: {
       Comments:
@@ -1357,7 +1317,6 @@ export const reviews = {
         ' Horchata',
       ],
       username: 'thejohnwoz',
-      __collections__: {},
     },
     MZMEij1RwLgi5zv4hjnz: {
       Comments:
@@ -1382,7 +1341,6 @@ export const reviews = {
       ],
       tags: [''],
       username: 'thejohnwoz',
-      __collections__: {},
     },
     MZzA1qu3pc5KQPeACmnJ: {
       Comments:
@@ -1408,7 +1366,6 @@ export const reviews = {
       ],
       tags: [''],
       username: null,
-      __collections__: {},
     },
     O3TgI0PUZG9D0VAPUyuk: {
       Comments:
@@ -1458,7 +1415,6 @@ export const reviews = {
       ],
       tags: ['Roadhouse', ' live music', ' appetizers', ' desert'],
       username: 'thejohnwoz',
-      __collections__: {},
     },
     OJTt1FW0ovEJMfJJvCT5: {
       Comments: '',
@@ -1481,7 +1437,6 @@ export const reviews = {
         { label: 'Vibe', value: 3.5 },
       ],
       username: 'Eatthischair',
-      __collections__: {},
     },
     OS9WU03Nmn1y7YZD4OPk: {
       Comments: '',
@@ -1505,7 +1460,6 @@ export const reviews = {
       ],
       tags: [''],
       username: 'Eatthischair',
-      __collections__: {},
     },
     Oc8OhtpBFmqNfXLRk8OQ: {
       Comments: '',
@@ -1535,7 +1489,6 @@ export const reviews = {
         { label: 'Vibe', value: 3 },
       ],
       username: 'Eatthischair',
-      __collections__: {},
     },
     OoJgOanmLwIblXMXCqSP: {
       Comments:
@@ -1568,7 +1521,6 @@ export const reviews = {
       ],
       tags: ['Ice Cream', ' Sherbert', ' Sorbet', ' Milkshake'],
       username: 'thejohnwoz',
-      __collections__: {},
     },
     OsyB0f9MNCPX6cWF9GIY: {
       Comments:
@@ -1627,7 +1579,6 @@ export const reviews = {
         ' New England seafood',
       ],
       username: 'thejohnwoz',
-      __collections__: {},
     },
     OveWkRK6FRKzuv7H9Lor: {
       Comments: '',
@@ -1650,7 +1601,6 @@ export const reviews = {
         { label: 'Vibe', value: 0 },
       ],
       username: 'Eatthischair',
-      __collections__: {},
     },
   },
 };

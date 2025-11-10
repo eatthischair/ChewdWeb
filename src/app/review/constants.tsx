@@ -1,4 +1,6 @@
-export const ratings = [
+type Rating = { label: string; icon: string };
+
+export const ratings: Rating[] = [
   { label: 'Overall', icon: 'Heart' },
   { label: 'Server Helpfulness', icon: 'Smile' },
   { label: 'Timeliness of Service', icon: 'TrendingUp' },
