@@ -55,10 +55,7 @@ export function SliderDemo({
         defaultValue={[2.5]}
         max={5}
         step={0.5}
-        onValueChange={(e) => {
-          console.log('e', e, typeof e);
-          setVal(e);
-        }}
+        onValueChange={(e) => setVal(e)}
         className={cn(' border ', className)}
         {...props}
       />
