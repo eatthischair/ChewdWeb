@@ -1,4 +1,4 @@
-type Coords = { lat: number; lng: number };
+export type Coords = { lat: number; lng: number };
 
 export interface Review {
   Comments: string;

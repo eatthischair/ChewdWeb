@@ -1,6 +1,6 @@
 import { AvatarDemo } from './Avatar';
-import { users } from '../../json/usersChewdWeb';
 import { DropdownMenuDemo } from './dropdown-example';
+import { users } from '../../json/usersChewdWeb';
 import { reviews } from '../../json/reviews';
 import { yetToVisit } from '../../json/yetToVisit';
 import { Reviews, Yets, User } from 'types';
@@ -10,7 +10,7 @@ export default function Page() {
   const revs: Reviews = Object.values(reviews.data);
   const yets: Yets = Object.values(yetToVisit.data);
   const favorites = revs.filter((rev) => rev.favorite === true);
-  console.log('revs', revs[0], 'yets', yets[0]);
+  // console.log('revs', revs[0], 'yets', yets[0]);
   return (
     <div className="border-2 min-w-screen ">
       <div className="min-w-screen">
