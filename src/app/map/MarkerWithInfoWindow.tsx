@@ -5,14 +5,17 @@ import {
   Pin,
 } from '@vis.gl/react-google-maps';
 import { useCallback, useState } from 'react';
-import { Coords, Review } from '../../types/index';
-import { colorScale } from './constants';
-import { DialogDemo } from './Dialog';
+import { Coords, Review, YetToVisit } from '../../types/index';
+// import { colorScale } from './constants';
+import { DialogDemo } from './Dialog/Dialog';
+import { RevInfoWindow } from './ReviewInfoWindow';
+import { YetInfoWindow, YetToVisitInfoWindow } from './YetInfoWindow';
 type Params = {
   position: Coords;
-  rev: Review;
+  rev?: Review;
+  yet?: YetToVisit;
 };
-export const MarkerWithInfoWindow = ({ position, rev }: Params) => {
+export const MarkerWithInfoWindow = ({ position, rev, yet }: Params) => {
   // `markerRef` and `marker` are needed to establish the connection between
   // the marker and infowindow (if you're using the Marker component, you
   // can use the `useMarkerRef` hook instead).
@@ -29,9 +32,16 @@ export const MarkerWithInfoWindow = ({ position, rev }: Params) => {
   // if the maps api closes the infowindow, we have to synchronize our state
   const handleClose = useCallback(() => setInfoWindowShown(false), []);
 
-  const { label, value } = rev.ratings[0];
-  const placeName = rev.placeName.split(',')[0];
-  const color = colorScale[value];
+  let placeName;
+  let bgColor;
+  if (rev) {
+    placeName = rev.placeName.split(',')[0];
+    bgColor = 'red';
+  } else if (yet) {
+    placeName = yet.placeName;
+    bgColor = 'orange';
+  }
+  // const color = colorScale[value];
 
   return (
     <>
@@ -40,7 +50,7 @@ export const MarkerWithInfoWindow = ({ position, rev }: Params) => {
         position={position}
         onClick={handleMarkerClick}
       >
-        <Pin />
+        <Pin background={bgColor} />
 
         {infoWindowShown && (
           <InfoWindow
@@ -57,14 +67,17 @@ export const MarkerWithInfoWindow = ({ position, rev }: Params) => {
               >
                 ×
               </button>
-
-              <h2 className="mt-2 border-b  pb-1 px-2 py-4 text-lg font-semibold">
-                {placeName}
-              </h2>
-              <div className="pt-1 px-2 font-medium">
-                {label}: {value}
-              </div>
-              <DialogDemo rev={rev} />
+              {rev ? (
+                <RevInfoWindow
+                  label={rev.ratings[0].label}
+                  placeName={placeName}
+                  rating={rev.ratings[0].value}
+                  rev={rev}
+                />
+              ) : (
+                ''
+              )}
+              {yet ? <YetInfoWindow placeName={placeName} rev={rev} /> : ''}
             </div>
           </InfoWindow>
         )}

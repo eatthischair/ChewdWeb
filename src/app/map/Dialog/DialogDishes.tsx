@@ -4,7 +4,7 @@ import {
   AccordionContent,
   AccordionItem,
   AccordionTrigger,
-} from '../../components/ui/accordion';
+} from '../../../components/ui/accordion';
 import { Slider } from 'components/ui/slider';
 export function DialogDishes({ rev }: { rev: Review }) {
   if (!rev.dishes) return;
