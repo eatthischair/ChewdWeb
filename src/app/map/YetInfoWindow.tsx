@@ -2,7 +2,7 @@ import { Review, YetToVisit } from 'types';
 import { DialogDemo } from './Dialog/Dialog';
 
 type Params = {
-  placeName: string;
+  placeName: string | undefined;
 };
 export const YetInfoWindow = ({ placeName }: Params) => {
   return (

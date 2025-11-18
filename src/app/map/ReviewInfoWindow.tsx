@@ -2,7 +2,7 @@ import { Review } from 'types';
 import { DialogDemo } from './Dialog/Dialog';
 
 type Params = {
-  placeName: string;
+  placeName: string | undefined;
   label: string;
   rating: number;
   rev: Review;

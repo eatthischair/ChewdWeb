@@ -7,9 +7,8 @@ import {
 import { useCallback, useState } from 'react';
 import { Coords, Review, YetToVisit } from '../../types/index';
 // import { colorScale } from './constants';
-import { DialogDemo } from './Dialog/Dialog';
 import { RevInfoWindow } from './ReviewInfoWindow';
-import { YetInfoWindow, YetToVisitInfoWindow } from './YetInfoWindow';
+import { YetInfoWindow } from './YetInfoWindow';
 type Params = {
   position: Coords;
   rev?: Review;
@@ -77,7 +76,7 @@ export const MarkerWithInfoWindow = ({ position, rev, yet }: Params) => {
               ) : (
                 ''
               )}
-              {yet ? <YetInfoWindow placeName={placeName} rev={rev} /> : ''}
+              {yet ? <YetInfoWindow placeName={placeName} /> : ''}
             </div>
           </InfoWindow>
         )}
