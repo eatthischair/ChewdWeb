@@ -7,24 +7,60 @@ type Coords = { lat: number; lng: number };
 export default function RenderMarkers({
   revs,
   yets,
+  favs,
+  toggle,
 }: {
   revs: Reviews;
   yets: Yets;
+  favs: any;
+  toggle: any;
 }) {
-  const reviews = revs.map((rev: Review, index: number) => {
-    if (!isCoords(rev.coords)) {
+  console.log('eee', arguments);
+
+  const reviews = revs.map((rev: Review) => {
+    if (!isCoords(rev.coords) || !toggle.revs) {
       return null;
     }
-    return <MarkerWithInfoWindow position={rev.coords} key={index} rev={rev} />;
+    return (
+      <MarkerWithInfoWindow
+        position={rev.coords}
+        key={rev.key}
+        rev={rev}
+        color={'red'}
+      />
+    );
   });
 
-  const yetToVisit = yets.map((yet: YetToVisit, index: number) => {
-    if (!isCoords(yet.coords)) {
+  const yetToVisit = yets.map((yet: YetToVisit) => {
+    if (!isCoords(yet.coords) || !toggle.yets) {
       return null;
     }
-    return <MarkerWithInfoWindow position={yet.coords} key={index} yet={yet} />;
+    return (
+      <MarkerWithInfoWindow
+        position={yet.coords}
+        key={yet.key}
+        yet={yet}
+        color={'blue'}
+      />
+    );
   });
-  return reviews.concat(yetToVisit);
+
+  const favorites = favs.map((fav: Review) => {
+    if (!isCoords(fav.coords) || !toggle.favs) {
+      return null;
+    }
+    return (
+      <MarkerWithInfoWindow
+        position={fav.coords}
+        key={fav.key}
+        rev={fav}
+        color={'black'}
+      />
+    );
+  });
+
+  let allMarkers = reviews.concat(yetToVisit, favorites);
+  return allMarkers;
 }
 
 function isCoords(value: unknown): value is Coords {

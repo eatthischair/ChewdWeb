@@ -16,10 +16,12 @@ export interface Review {
   }[];
   tags?: string[];
   username: string | null;
+  key: string;
 }
 export type Reviews = Review[];
 
 export interface YetToVisit {
+  key: string;
   coords: Coords;
   placeId: string;
   placeName: string;

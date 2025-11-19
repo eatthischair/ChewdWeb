@@ -45,7 +45,7 @@ export function SliderDemo({
   const [val, setVal] = useState([2.5]);
 
   return (
-    <div className=" py-8 sm:px-12 md:px-120 flex flex-col justify-center">
+    <div className=" py-8 sm:px-4 md:px-120 flex flex-col justify-center border">
       <li className="p-4 flex justify-between">
         <span>{label}</span>
         <span>{val}</span>

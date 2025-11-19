@@ -13,8 +13,9 @@ type Params = {
   position: Coords;
   rev?: Review;
   yet?: YetToVisit;
+  color: string;
 };
-export const MarkerWithInfoWindow = ({ position, rev, yet }: Params) => {
+export const MarkerWithInfoWindow = ({ position, rev, yet, color }: Params) => {
   // `markerRef` and `marker` are needed to establish the connection between
   // the marker and infowindow (if you're using the Marker component, you
   // can use the `useMarkerRef` hook instead).
@@ -35,10 +36,8 @@ export const MarkerWithInfoWindow = ({ position, rev, yet }: Params) => {
   let bgColor;
   if (rev) {
     placeName = rev.placeName.split(',')[0];
-    bgColor = 'red';
   } else if (yet) {
     placeName = yet.placeName;
-    bgColor = 'orange';
   }
   // const color = colorScale[value];
 
@@ -49,7 +48,7 @@ export const MarkerWithInfoWindow = ({ position, rev, yet }: Params) => {
         position={position}
         onClick={handleMarkerClick}
       >
-        <Pin background={bgColor} />
+        <Pin background={color} />
 
         {infoWindowShown && (
           <InfoWindow
