@@ -2,7 +2,7 @@
 
 export const fetchData = async (value: string) => {
   try {
-    const options = {
+    const options: any = {
       method: 'POST',
       headers: {
         accept: 'application/json',

@@ -16,12 +16,12 @@ export interface Review {
   }[];
   tags?: string[];
   username: string | null;
-  key: string;
+  key?: string;
 }
 export type Reviews = Review[];
 
 export interface YetToVisit {
-  key: string;
+  key?: string;
   coords: Coords;
   placeId: string;
   placeName: string;
@@ -47,3 +47,9 @@ export interface User {
   lastName?: string;
   profileVisbility?: string;
 }
+
+export type Toggle = {
+  revs: boolean;
+  yets: boolean;
+  favs: boolean;
+};

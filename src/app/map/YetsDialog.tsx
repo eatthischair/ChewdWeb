@@ -17,7 +17,7 @@ import { fetchData } from 'data/fetchData';
 
 export function YetsDialog() {
   const [input, setInput] = useState('');
-  const [places, setPlaces] = useState(null);
+  const [places, setPlaces] = useState<any>([]);
   const [placeName, setPlaceName] = useState(null);
   const [showPlaces, setShowPlaces] = useState(true);
 
@@ -68,7 +68,7 @@ export function YetsDialog() {
             </div>
             <a className="flex flex-col justify-left items-start max-w-sm">
               {places && showPlaces
-                ? places.map((place) => {
+                ? places.map((place: any) => {
                     const placeName = place.placePrediction.text.text;
                     const [name, street] = placeName.split(',');
                     return (

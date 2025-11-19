@@ -1,5 +1,9 @@
 import { Button } from 'components/ui/button';
-export const MarkerToggles = ({ toggle, setToggle }) => {
+import { Toggle } from 'types';
+type Params = {
+  setToggle: React.Dispatch<React.SetStateAction<Toggle>>;
+};
+export const MarkerToggles = ({ setToggle }: Params) => {
   return (
     <>
       <Button

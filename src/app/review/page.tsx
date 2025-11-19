@@ -11,7 +11,7 @@ import { Textarea } from 'components/ui/textarea';
 
 export default function Page() {
   const [input, setInput] = useState('');
-  const [places, setPlaces] = useState(null);
+  const [places, setPlaces] = useState([]);
   const [placeName, setPlaceName] = useState(null);
   const [showPlaces, setShowPlaces] = useState(true);
   const [comments, setComments] = useState('');
@@ -53,7 +53,7 @@ export default function Page() {
         />
         <a className="flex flex-col p-4">
           {places && showPlaces
-            ? places.map((place) => {
+            ? places.map((place: any) => {
                 const placeName = place.placePrediction.text.text;
                 const [name, street] = placeName.split(',');
                 return (

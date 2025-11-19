@@ -22,7 +22,6 @@ export default function Maps() {
   }));
 
   const favs = revs.filter((rev) => rev.favorite);
-  console.log('favs', favs);
   const [toggle, setToggle] = useState({
     revs: true,
     yets: true,
@@ -40,7 +39,7 @@ export default function Maps() {
             toggle={toggle}
           />
           <YetsDialog />
-          <MarkerToggles toggle={toggle} setToggle={setToggle} />
+          <MarkerToggles setToggle={setToggle} />
         </Map>
       </main>
     </div>
