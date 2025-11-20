@@ -48,7 +48,7 @@ export const MarkerWithInfoWindow = ({ position, rev, yet, color }: Params) => {
         position={position}
         onClick={handleMarkerClick}
       >
-        <Pin background={color} />
+        <Pin background={color} glyphColor={color} borderColor={color} />
 
         {infoWindowShown && (
           <InfoWindow

@@ -47,8 +47,10 @@ export function YetsDialog() {
   return (
     <Dialog>
       <form>
-        <DialogTrigger asChild>
-          <Button variant="outline">Add Want to Go</Button>
+        <DialogTrigger asChild className="my-4">
+          <Button variant="outline" className="py-4">
+            Add Want to Go
+          </Button>
         </DialogTrigger>
         <DialogContent className="max-w-screen sm:max-w-[425px] border-8">
           <DialogHeader>

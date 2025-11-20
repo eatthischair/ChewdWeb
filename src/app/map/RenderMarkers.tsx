@@ -26,7 +26,7 @@ export default function RenderMarkers({
         position={rev.coords}
         key={rev.key}
         rev={rev}
-        color={'red'}
+        color={'#D2DCB6'}
       />
     );
   });
@@ -40,7 +40,7 @@ export default function RenderMarkers({
         position={yet.coords}
         key={yet.key}
         yet={yet}
-        color={'blue'}
+        color={'#A1BC98'}
       />
     );
   });
@@ -54,12 +54,12 @@ export default function RenderMarkers({
         position={fav.coords}
         key={fav.key}
         rev={fav}
-        color={'black'}
+        color={'#778873'}
       />
     );
   });
 
-  let allMarkers = reviews.concat(yetToVisit, favorites);
+  const allMarkers = reviews.concat(yetToVisit, favorites);
   return allMarkers;
 }
 

@@ -5,8 +5,9 @@ type Params = {
 };
 export const MarkerToggles = ({ setToggle }: Params) => {
   return (
-    <>
+    <div className="w-full flex justify-between ">
       <Button
+        className="bg-[#D2DCB6]"
         onClick={() =>
           setToggle((toggle) => ({ ...toggle, yets: !toggle.yets }))
         }
@@ -15,6 +16,7 @@ export const MarkerToggles = ({ setToggle }: Params) => {
         Want to Go
       </Button>
       <Button
+        className="bg-[#A1BC98]"
         onClick={() =>
           setToggle((toggle) => ({ ...toggle, revs: !toggle.revs }))
         }
@@ -22,12 +24,13 @@ export const MarkerToggles = ({ setToggle }: Params) => {
         Chew'd
       </Button>
       <Button
+        className="bg-[#778873]"
         onClick={() =>
           setToggle((toggle) => ({ ...toggle, favs: !toggle.favs }))
         }
       >
         Favorites
       </Button>
-    </>
+    </div>
   );
 };

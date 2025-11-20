@@ -7,6 +7,7 @@ import { Reviews, Yets } from 'types';
 import { YetsDialog } from './YetsDialog';
 import { MarkerToggles } from './MarkerToggles';
 import { useState } from 'react';
+import { Input } from 'components/ui/input';
 export default function Maps() {
   //Dallas, later add use your location
   const position = { lat: 32.7766642, lng: -96.7969879 };
@@ -29,9 +30,15 @@ export default function Maps() {
   });
 
   return (
-    <div className="w-100 h-100 flex border-2 border-red-200">
-      <main className="border w-100 h-100 justify-center">
-        <Map defaultCenter={position} defaultZoom={10} mapId="DEMO_MAP_ID">
+    <div className="max-w-full h-full flex  m-4">
+      <main className=" w-100 h-100 justify-center">
+        <Input className="p-4 my-4" placeholder="Filter Markers" />
+        <Map
+          defaultCenter={position}
+          defaultZoom={10}
+          mapId="DEMO_MAP_ID"
+          reuseMaps={true}
+        >
           <RenderMarkers
             revs={revs.filter((rev) => !rev.favorite)}
             yets={yets}
