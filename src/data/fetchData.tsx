@@ -32,7 +32,6 @@ export const fetchData = async (value: string) => {
     }
 
     const body = await response.json();
-    console.log('BODY', body);
     return { status: response.status, body };
   } catch (error) {
     console.log(`❌ Fetch error for:`, error);

@@ -39,6 +39,9 @@ export default function BottomNav() {
           <NavigationMenuLink asChild className={navigationMenuTriggerStyle()}>
             <Link href="/review">Review</Link>
           </NavigationMenuLink>
+          <NavigationMenuLink asChild className={navigationMenuTriggerStyle()}>
+            <Link href="/signup">Sign-up</Link>
+          </NavigationMenuLink>
         </NavigationMenuItem>
       </NavigationMenuList>
     </NavigationMenu>

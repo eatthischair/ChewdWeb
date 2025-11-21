@@ -11,6 +11,10 @@ import { Button } from '../../components/ui/button';
 import { Label } from '../../components/ui/label';
 
 export default function LoginPage() {
+  const { data, error } = await supabase.auth.signUp({
+    email: 'example@email.com',
+    password: 'example-password',
+  });
   return (
     <div className="min-h-screen flex items-center justify-center  p-6">
       <Card className="w-full max-w-md shadow-xl rounded-2xl">
@@ -32,9 +36,17 @@ export default function LoginPage() {
             <Label htmlFor="password">Password</Label>
             <Input
               id="password"
+              name="password"
               type="password"
-              placeholder="••••••••"
-              className="p-4"
+              // autoComplete={
+              //   mode === 'signin' ? 'current-password' : 'new-password'
+              // }
+              // defaultValue={state.password}
+              required
+              minLength={8}
+              maxLength={100}
+              className="appearance-none rounded-full relative block w-full px-3 py-2 border border-gray-300 placeholder-gray-500 text-gray-900 focus:outline-none focus:ring-orange-500 focus:border-orange-500 focus:z-10 sm:text-sm"
+              placeholder="Enter your password"
             />
           </div>
 

@@ -15,8 +15,6 @@ export default function RenderMarkers({
   favs: any;
   toggle: any;
 }) {
-  console.log('eee', arguments);
-
   const reviews = revs.map((rev: Review) => {
     if (!isCoords(rev.coords) || !toggle.revs) {
       return null;

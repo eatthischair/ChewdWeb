@@ -40,9 +40,7 @@ export function YetsDialog() {
 
   const getData = async (value: string) => {
     const places = await fetchData(value);
-    console.log('penis', places);
     setPlaces(places?.body.suggestions);
-    console.log(places?.body.suggestions);
   };
   return (
     <Dialog>
