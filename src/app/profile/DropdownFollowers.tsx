@@ -18,12 +18,8 @@ import Link from 'next/link';
 import { Reviews, Yets } from 'types';
 
 type List = Reviews | Yets;
-type DropdownParams = {
-  items: List;
-  name: string;
-};
 
-export function DropdownFollowers({ items, name }: DropdownParams) {
+export function DropdownFollowers({ items, name }: any) {
   return (
     <DropdownMenu>
       <DropdownMenuTrigger asChild>
@@ -36,15 +32,15 @@ export function DropdownFollowers({ items, name }: DropdownParams) {
   );
 }
 
-const PeopleList = ({ items }) => {
+const PeopleList = ({ items }: any) => {
   return (
     <DropdownMenuGroup>
-      {items.map((person, index) => {
+      {items.map((person: string, index: number) => {
         return (
           <DropdownMenuItem key={index}>
             {/* <Link > */}
             {person}
-            {index} {/* </Link> */}
+            {/* </Link> */}
           </DropdownMenuItem>
         );
       })}

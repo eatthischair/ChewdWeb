@@ -4,11 +4,11 @@ import {
   DropdownMenuItem,
 } from '../../components/ui/dropdown-menu';
 
-import { Reviews, Yets } from 'types';
-export const DropdownReviews = ({ items }) => {
+import { Reviews, Yets, Review } from 'types';
+export const DropdownReviews = ({ items }: any) => {
   return (
     <DropdownMenuGroup>
-      {items.map((review, index) => {
+      {items.map((review: Review, index: number) => {
         return (
           <DropdownMenuItem key={index}>{review.placeName}</DropdownMenuItem>
         );
